@@ -28,9 +28,9 @@ jobs:
         python download_and_convert_gtfs.py  # Run the Python script to download, extract, and convert
 
     - name: Commit and push GTFS JSON files
-      uses: EndBug/add-and-commit@v9  # Upgrade to v9 to address the warning
+      uses: EndBug/add-and-commit@v9
       with:
         author_name: 'GitHub Actions'
         author_email: 'actions@github.com'
         message: 'Update GTFS data as JSON files'
-        token: ${{ secrets.GH_PAT }}  # Use PAT if required
+        github_token: ${{ secrets.GITHUB_TOKEN }}  # Use the built-in GITHUB_TOKEN
