@@ -2,8 +2,8 @@ name: Download GTFS Files and Convert to JSON
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This will run daily at midnight UTC
-  workflow_dispatch:  # This allows manual trigger from GitHub UI
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
 
 jobs:
   download-and-convert-gtfs:
@@ -20,9 +20,10 @@ jobs:
 
     - name: Install dependencies
       run: |
+        python -m pip install --upgrade pip
         pip install requests zipfile38 pandas
 
-    - name: Create Python script to download and process GTFS data
+    - name: Download and convert GTFS files
       run: |
         echo "
 import requests
@@ -59,13 +60,13 @@ for file_name in os.listdir(extract_folder):
         json_file_name = f'{file_name.replace('.txt', '.json')}'
         with open(f'{extract_folder}/{json_file_name}', 'w') as json_file:
             json_file.write(json_data)
-        " > download_and_convert_gtfs.py  # Write the Python code to a script file
+        " > download_and_convert_gtfs.py  # Write the Python script to a file
 
-    - name: Run the Python script
+    - name: Run Python script to download and convert GTFS
       run: |
-        python download_and_convert_gtfs.py  # Execute the Python script
+        python download_and_convert_gtfs.py  # Run the Python script to download, extract, and convert
 
-    - name: Commit and push the GTFS JSON files
+    - name: Commit and push GTFS JSON files
       uses: EndBug/add-and-commit@v7
       with:
         author_name: 'GitHub Actions'
