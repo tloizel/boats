@@ -1,0 +1,52 @@
+﻿stop_id,stop_code,stop_name,stop_lat,stop_lon
+4,"2319806","Hunters Point South",40.741838,-73.961322
+8,"2319809","South Williamsburg",40.708743,-73.970224
+11,"2319817","Atlantic Ave/BBP Pier 6",40.692315,-74.002073
+16,"2319821","Beach Channel Dr/Beach 108th Street",40.583846,-73.831658
+17,"2319805","East 34th Street",40.743912,-73.970731
+18,"2319807","Greenpoint",40.731365,-73.963617
+19,"2319808","North Williamsburg",40.720838,-73.964902
+20,"2319810","Dumbo/Fulton Ferry",40.703652,-73.995671
+23,"2319815","Bay Ridge",40.639858,-74.038130
+24,"2319816","Red Hook/Atlantic Basin",40.680957,-74.013358
+25,"2319819","Roosevelt Island",40.756811,-73.952482
+37,"2319822","Beach Channel Dr/Beach 54th St",40.595130,-73.784960
+39,"2319823","Rockaway Beach Boulevard & Beach 86th St",40.587630,-73.811180
+43,"2319824","Rockaway Beach Boulevard & Beach 86th Street",40.587523,-73.811179
+45,"2319826","Beach Channel Dr/Beach 54th Street",40.595027,-73.784696
+46,"2319827","Beach Channel Dr/Beach 41st Street",40.595763,-73.772531
+48,"2319829","Rockaway Point Boulevard & Beach 169th Street",40.567088,-73.882577
+49,"2319830","Jacob Riis Park Road/Bath House",40.566157,-73.872477
+50,"2319831","Rockaway Beach Boulevard & Beach 149th St",40.569455,-73.863687
+51,"2319832","Rockaway Beach Boulevard & Beach 135th St",40.573903,-73.852874
+52,"2319833","Rockaway Beach Boulevard & Beach. 127th St",40.576762,-73.845900
+53,"2319834","Rockaway Beach Boulevard & Beach 115th St",40.579980,-73.836574
+55,"2319835","Rockaway Beach Boulevard & Beach 118th Street",40.579197,-73.839208
+56,"2319836","Rockaway Beach Boulevard & Beach 126th Street",40.576892,-73.845939
+57,"2319837","Rockaway Beach Boulevard & Beach 135th Street",40.574118,-73.852720
+58,"2319838","Rockaway Beach Boulevard & Beach 149th Street",40.569306,-73.864512
+61,"2319839","Beach Channel Dr/Beach 41st St",40.595872,-73.772849
+62,"2319840","Beach Channel Dr/Beach 36th Street",40.596245,-73.769140
+87,"2319811","Wall St/Pier 11",40.703161,-74.006144
+88,"2319813","Rockaway",40.584228,-73.831596
+89,"2319818","Astoria",40.771720,-73.935714
+90,"2319820","Long Island City",40.748420,-73.957725
+103,"2319863","Rockaway Beach Boulevard & Beach 67th St",40.590691,-73.796310
+104,"2319864","Rockaway Beach Boulevard & Beach 96th St",40.585406,-73.817963
+105,"2319865","Rockaway Beach Boulevard & Beach 77th St",40.588359,-73.804725
+111,"2319870","Gov. Island/Yankee Pier",40.686640,-74.016482
+112,"2319871","Soundview",40.804202,-73.848703
+113,"2319872","East 90th St",40.777475,-73.942172
+114,"2319873","Stuyvesant Cove",40.731979,-73.972922
+115,"2319874","Corlears Hook",40.710159,-73.979244
+118,"2319814","Sunset Park/BAT",40.646276,-74.026436
+120,"2319875","Brooklyn Navy Yard",40.701792,-73.973576
+136,"2319890","Battery Park City/Vesey St.",40.715029,-74.017775
+137,"2319891","St. George",40.646072,-74.074231
+138,"2319892","Midtown West/W 39th St-Pier 79",40.760323,-74.004075
+141,"2319894","Ferry Point Park",40.805455,-73.837305
+142,"2319895","Rockaway Beach Boulevard & Beach 102nd Street",40.583830,-73.823620
+145,"2319897","Rockaway Beach Boulevard & Beach 118th Street Inbound",40.579155,-73.839088
+149,,"Rockaway Beach Boulevard & Beach 96th Street",40.585465,-73.817660
+150,,"Rockaway Beach Boulevard & Beach 79th Street",40.588152,-73.805308
+151,,"Rockaway Beach Boulevard & Beach 67th Street",40.590786,-73.795489

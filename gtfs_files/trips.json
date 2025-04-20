@@ -1,0 +1,607 @@
+{"route_id":"ER","service_id":1,"trip_id":1,"trip_headsign":"Hunters Point South","trip_short_name":1301,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":2,"trip_headsign":"Hunters Point South","trip_short_name":1401,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":3,"trip_headsign":"Hunters Point South","trip_short_name":1501,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":4,"trip_headsign":"Hunters Point South","trip_short_name":1102,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":5,"trip_headsign":"Hunters Point South","trip_short_name":1202,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":6,"trip_headsign":"Hunters Point South","trip_short_name":1303,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":7,"trip_headsign":"Hunters Point South","trip_short_name":1403,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":8,"trip_headsign":"Hunters Point South","trip_short_name":1503,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":9,"trip_headsign":"Hunters Point South","trip_short_name":1104,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":10,"trip_headsign":"Hunters Point South","trip_short_name":1204,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":11,"trip_headsign":"Hunters Point South","trip_short_name":1305,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":12,"trip_headsign":"Hunters Point South","trip_short_name":1505,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":13,"trip_headsign":"Hunters Point South","trip_short_name":1106,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":14,"trip_headsign":"Hunters Point South","trip_short_name":1307,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":15,"trip_headsign":"Hunters Point South","trip_short_name":1507,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":16,"trip_headsign":"Hunters Point South","trip_short_name":1108,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":17,"trip_headsign":"Hunters Point South","trip_short_name":1309,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":18,"trip_headsign":"Hunters Point South","trip_short_name":1509,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":19,"trip_headsign":"Hunters Point South","trip_short_name":1110,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":20,"trip_headsign":"Hunters Point South","trip_short_name":1311,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":21,"trip_headsign":"Hunters Point South","trip_short_name":1511,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":22,"trip_headsign":"Hunters Point South","trip_short_name":1206,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":23,"trip_headsign":"Hunters Point South","trip_short_name":1112,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":24,"trip_headsign":"Hunters Point South","trip_short_name":1405,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":25,"trip_headsign":"Hunters Point South","trip_short_name":1313,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":26,"trip_headsign":"Hunters Point South","trip_short_name":1513,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":27,"trip_headsign":"Hunters Point South","trip_short_name":1208,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":28,"trip_headsign":"Hunters Point South","trip_short_name":1114,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":29,"trip_headsign":"Hunters Point South","trip_short_name":1407,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":30,"trip_headsign":"Hunters Point South","trip_short_name":1315,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":31,"trip_headsign":"Hunters Point South","trip_short_name":1210,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":32,"trip_headsign":"Hunters Point South","trip_short_name":1409,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":1,"trip_id":33,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1101,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":34,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1201,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":35,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1302,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":36,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1402,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":37,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1502,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":38,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1103,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":39,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1203,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":40,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1304,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":41,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1404,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":42,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1504,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"RES","service_id":1,"trip_id":43,"trip_headsign":"Rockaway East","trip_short_name":10102,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":44,"trip_headsign":"Rockaway East","trip_short_name":10104,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"ER","service_id":1,"trip_id":47,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1105,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":48,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1205,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":49,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1306,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":51,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1506,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":53,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1107,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":54,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1308,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":56,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1508,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":57,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1109,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":58,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1310,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":59,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1510,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":60,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1111,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":61,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1312,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":62,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1512,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":63,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1207,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":64,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1113,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":65,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1406,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":66,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1314,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":67,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1514,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":68,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1209,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":69,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1115,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":70,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1408,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":71,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1316,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":72,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1211,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":1,"trip_id":73,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1410,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":74,"trip_headsign":"Hunters Point South","trip_short_name":1201,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":75,"trip_headsign":"Hunters Point South","trip_short_name":1102,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":76,"trip_headsign":"Hunters Point South","trip_short_name":1301,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":77,"trip_headsign":"Hunters Point South","trip_short_name":1203,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":78,"trip_headsign":"Hunters Point South","trip_short_name":1401,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":79,"trip_headsign":"Hunters Point South","trip_short_name":1501,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":80,"trip_headsign":"Hunters Point South","trip_short_name":1104,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":81,"trip_headsign":"Hunters Point South","trip_short_name":1303,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":82,"trip_headsign":"Hunters Point South","trip_short_name":1205,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":83,"trip_headsign":"Hunters Point South","trip_short_name":1403,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":84,"trip_headsign":"Hunters Point South","trip_short_name":1503,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":85,"trip_headsign":"Hunters Point South","trip_short_name":1106,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":86,"trip_headsign":"Hunters Point South","trip_short_name":1305,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":87,"trip_headsign":"Hunters Point South","trip_short_name":1207,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":88,"trip_headsign":"Hunters Point South","trip_short_name":1405,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":89,"trip_headsign":"Hunters Point South","trip_short_name":1505,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":90,"trip_headsign":"Hunters Point South","trip_short_name":1108,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":91,"trip_headsign":"Hunters Point South","trip_short_name":1307,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":92,"trip_headsign":"Hunters Point South","trip_short_name":1209,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":93,"trip_headsign":"Hunters Point South","trip_short_name":1407,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":94,"trip_headsign":"Hunters Point South","trip_short_name":1507,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":95,"trip_headsign":"Hunters Point South","trip_short_name":1110,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":96,"trip_headsign":"Hunters Point South","trip_short_name":1309,"direction_id":1,"block_id":13,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":97,"trip_headsign":"Hunters Point South","trip_short_name":1211,"direction_id":1,"block_id":12,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":121,"trip_headsign":"Hunters Point South","trip_short_name":1409,"direction_id":1,"block_id":14,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":122,"trip_headsign":"Hunters Point South","trip_short_name":1509,"direction_id":1,"block_id":15,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":123,"trip_headsign":"Hunters Point South","trip_short_name":1112,"direction_id":1,"block_id":11,"shape_id":82}
+{"route_id":"ER","service_id":2,"trip_id":125,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1101,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":126,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1202,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":127,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1103,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":128,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1302,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":129,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1204,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":132,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1402,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":133,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1502,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":134,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1105,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":135,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1304,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":136,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1206,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":137,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1404,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":139,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1504,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":140,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1107,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":141,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1306,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":142,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1208,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":165,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1406,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":166,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1506,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":167,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1109,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":168,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1308,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":169,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1210,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":170,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1408,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":171,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1508,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":172,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1111,"direction_id":0,"block_id":11,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":173,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1310,"direction_id":0,"block_id":13,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":174,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1212,"direction_id":0,"block_id":12,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":175,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1410,"direction_id":0,"block_id":14,"shape_id":81}
+{"route_id":"ER","service_id":2,"trip_id":176,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":1510,"direction_id":0,"block_id":15,"shape_id":81}
+{"route_id":"RW","service_id":1,"trip_id":177,"trip_headsign":"Rockaway","trip_short_name":2108,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":178,"trip_headsign":"Rockaway","trip_short_name":2208,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":179,"trip_headsign":"Rockaway","trip_short_name":2110,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":180,"trip_headsign":"Rockaway","trip_short_name":2210,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":181,"trip_headsign":"Rockaway","trip_short_name":2112,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":182,"trip_headsign":"Rockaway","trip_short_name":2212,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":183,"trip_headsign":"Rockaway","trip_short_name":2114,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":184,"trip_headsign":"Rockaway","trip_short_name":2214,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":185,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2109,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":186,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2209,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":187,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2111,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":188,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2211,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":189,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2113,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":190,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2213,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":191,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2115,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":192,"trip_headsign":"Rockaway","trip_short_name":2201,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":193,"trip_headsign":"Rockaway","trip_short_name":2102,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":194,"trip_headsign":"Rockaway","trip_short_name":2203,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":195,"trip_headsign":"Rockaway","trip_short_name":2104,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":196,"trip_headsign":"Rockaway","trip_short_name":2205,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":197,"trip_headsign":"Rockaway","trip_short_name":2106,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":198,"trip_headsign":"Rockaway","trip_short_name":2207,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":199,"trip_headsign":"Rockaway","trip_short_name":2108,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":200,"trip_headsign":"Rockaway","trip_short_name":2209,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":201,"trip_headsign":"Rockaway","trip_short_name":2110,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":202,"trip_headsign":"Rockaway","trip_short_name":2211,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":2,"trip_id":203,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2101,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":204,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2202,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":205,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2103,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":206,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2204,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":207,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2105,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":208,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2206,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":209,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2107,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":210,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2208,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":211,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2109,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":212,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2210,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":213,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2111,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":2,"trip_id":214,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2212,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"SB","service_id":1,"trip_id":215,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3301,"direction_id":0,"block_id":33,"shape_id":117}
+{"route_id":"SB","service_id":1,"trip_id":216,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3102,"direction_id":0,"block_id":31,"shape_id":115}
+{"route_id":"SB","service_id":1,"trip_id":217,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3104,"direction_id":0,"block_id":31,"shape_id":115}
+{"route_id":"SB","service_id":1,"trip_id":218,"trip_headsign":"Bay Ridge","trip_short_name":3305,"direction_id":0,"block_id":33,"shape_id":46}
+{"route_id":"SB","service_id":1,"trip_id":219,"trip_headsign":"Bay Ridge","trip_short_name":3106,"direction_id":0,"block_id":31,"shape_id":46}
+{"route_id":"SB","service_id":1,"trip_id":220,"trip_headsign":"Bay Ridge","trip_short_name":3307,"direction_id":0,"block_id":33,"shape_id":46}
+{"route_id":"SB","service_id":1,"trip_id":221,"trip_headsign":"Bay Ridge","trip_short_name":3108,"direction_id":0,"block_id":31,"shape_id":46}
+{"route_id":"SB","service_id":1,"trip_id":222,"trip_headsign":"Bay Ridge","trip_short_name":3210,"direction_id":0,"block_id":32,"shape_id":46}
+{"route_id":"SB","service_id":1,"trip_id":223,"trip_headsign":"Bay Ridge","trip_short_name":3309,"direction_id":0,"block_id":33,"shape_id":46}
+{"route_id":"SB","service_id":1,"trip_id":224,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3110,"direction_id":0,"block_id":31,"shape_id":115}
+{"route_id":"SB","service_id":1,"trip_id":225,"trip_headsign":"Bay Ridge Limited","trip_short_name":3212,"direction_id":0,"block_id":32,"shape_id":119}
+{"route_id":"SB","service_id":1,"trip_id":226,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3311,"direction_id":0,"block_id":33,"shape_id":115}
+{"route_id":"SB","service_id":1,"trip_id":227,"trip_headsign":"Bay Ridge Limited","trip_short_name":3214,"direction_id":0,"block_id":32,"shape_id":119}
+{"route_id":"SB","service_id":1,"trip_id":228,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3112,"direction_id":0,"block_id":31,"shape_id":117}
+{"route_id":"SB","service_id":1,"trip_id":229,"trip_headsign":"Bay Ridge Limited","trip_short_name":3216,"direction_id":0,"block_id":32,"shape_id":79}
+{"route_id":"SB","service_id":1,"trip_id":230,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3313,"direction_id":0,"block_id":33,"shape_id":117}
+{"route_id":"SB","service_id":1,"trip_id":231,"trip_headsign":"Bay Ridge Limited","trip_short_name":3218,"direction_id":0,"block_id":32,"shape_id":79}
+{"route_id":"SB","service_id":1,"trip_id":232,"trip_headsign":"Bay Ridge","trip_short_name":3114,"direction_id":0,"block_id":31,"shape_id":106}
+{"route_id":"SB","service_id":1,"trip_id":233,"trip_headsign":"Bay Ridge","trip_short_name":3315,"direction_id":0,"block_id":33,"shape_id":106}
+{"route_id":"SB","service_id":1,"trip_id":234,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3201,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":235,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3203,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":236,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3205,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":237,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3207,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":238,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3209,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":239,"trip_headsign":"Corlears Hook","trip_short_name":3306,"direction_id":1,"block_id":33,"shape_id":45}
+{"route_id":"SB","service_id":1,"trip_id":240,"trip_headsign":"Corlears Hook","trip_short_name":3107,"direction_id":1,"block_id":31,"shape_id":45}
+{"route_id":"SB","service_id":1,"trip_id":241,"trip_headsign":"Corlears Hook","trip_short_name":3308,"direction_id":1,"block_id":33,"shape_id":45}
+{"route_id":"SB","service_id":1,"trip_id":242,"trip_headsign":"Corlears Hook","trip_short_name":3109,"direction_id":1,"block_id":31,"shape_id":45}
+{"route_id":"SB","service_id":1,"trip_id":243,"trip_headsign":"Corlears Hook","trip_short_name":3211,"direction_id":1,"block_id":32,"shape_id":45}
+{"route_id":"SB","service_id":1,"trip_id":244,"trip_headsign":"Corlears Hook","trip_short_name":3310,"direction_id":1,"block_id":33,"shape_id":45}
+{"route_id":"SB","service_id":1,"trip_id":245,"trip_headsign":"Corlears Hook Limited","trip_short_name":3111,"direction_id":1,"block_id":31,"shape_id":116}
+{"route_id":"SB","service_id":1,"trip_id":246,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3213,"direction_id":1,"block_id":32,"shape_id":120}
+{"route_id":"SB","service_id":1,"trip_id":247,"trip_headsign":"Corlears Hook Limited","trip_short_name":3312,"direction_id":1,"block_id":33,"shape_id":116}
+{"route_id":"SB","service_id":1,"trip_id":248,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3215,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":249,"trip_headsign":"Corlears Hook Limited","trip_short_name":3113,"direction_id":1,"block_id":31,"shape_id":118}
+{"route_id":"SB","service_id":1,"trip_id":250,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3217,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":251,"trip_headsign":"Corlears Hook Limited","trip_short_name":3314,"direction_id":1,"block_id":33,"shape_id":118}
+{"route_id":"SB","service_id":1,"trip_id":252,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3219,"direction_id":1,"block_id":32,"shape_id":80}
+{"route_id":"SB","service_id":1,"trip_id":253,"trip_headsign":"Corlears Hook","trip_short_name":3115,"direction_id":1,"block_id":31,"shape_id":105}
+{"route_id":"SB","service_id":2,"trip_id":254,"trip_headsign":"Red Hook\/Atlantic Basin","trip_short_name":3102,"direction_id":0,"block_id":31,"shape_id":126}
+{"route_id":"SB","service_id":2,"trip_id":255,"trip_headsign":"Red Hook\/Atlantic Basin","trip_short_name":3104,"direction_id":0,"block_id":31,"shape_id":126}
+{"route_id":"SB","service_id":2,"trip_id":256,"trip_headsign":"Bay Ridge","trip_short_name":3106,"direction_id":0,"block_id":31,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":257,"trip_headsign":"Bay Ridge","trip_short_name":3202,"direction_id":0,"block_id":32,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":258,"trip_headsign":"Bay Ridge","trip_short_name":3301,"direction_id":0,"block_id":33,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":259,"trip_headsign":"Bay Ridge","trip_short_name":3108,"direction_id":0,"block_id":31,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":260,"trip_headsign":"Bay Ridge","trip_short_name":3204,"direction_id":0,"block_id":32,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":261,"trip_headsign":"Bay Ridge","trip_short_name":3303,"direction_id":0,"block_id":33,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":262,"trip_headsign":"Bay Ridge","trip_short_name":3110,"direction_id":0,"block_id":31,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":263,"trip_headsign":"Bay Ridge","trip_short_name":3206,"direction_id":0,"block_id":32,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":264,"trip_headsign":"Bay Ridge","trip_short_name":3305,"direction_id":0,"block_id":33,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":265,"trip_headsign":"Bay Ridge","trip_short_name":3112,"direction_id":0,"block_id":31,"shape_id":46}
+{"route_id":"SB","service_id":2,"trip_id":266,"trip_headsign":"Bay Ridge","trip_short_name":3208,"direction_id":0,"block_id":32,"shape_id":106}
+{"route_id":"SB","service_id":2,"trip_id":267,"trip_headsign":"Bay Ridge","trip_short_name":3307,"direction_id":0,"block_id":33,"shape_id":106}
+{"route_id":"SB","service_id":2,"trip_id":268,"trip_headsign":"Bay Ridge","trip_short_name":3114,"direction_id":0,"block_id":31,"shape_id":106}
+{"route_id":"SB","service_id":2,"trip_id":269,"trip_headsign":"Bay Ridge","trip_short_name":3210,"direction_id":0,"block_id":32,"shape_id":106}
+{"route_id":"SB","service_id":2,"trip_id":270,"trip_headsign":"Bay Ridge","trip_short_name":3309,"direction_id":0,"block_id":33,"shape_id":106}
+{"route_id":"SB","service_id":2,"trip_id":271,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3101,"direction_id":1,"block_id":31,"shape_id":125}
+{"route_id":"SB","service_id":2,"trip_id":272,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3103,"direction_id":1,"block_id":31,"shape_id":125}
+{"route_id":"SB","service_id":2,"trip_id":273,"trip_headsign":"Wall St.\/Pier 11 Limited","trip_short_name":3105,"direction_id":1,"block_id":31,"shape_id":125}
+{"route_id":"SB","service_id":2,"trip_id":274,"trip_headsign":"Corlears Hook","trip_short_name":3201,"direction_id":1,"block_id":32,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":275,"trip_headsign":"Corlears Hook","trip_short_name":3107,"direction_id":1,"block_id":31,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":276,"trip_headsign":"Corlears Hook","trip_short_name":3203,"direction_id":1,"block_id":32,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":277,"trip_headsign":"Corlears Hook","trip_short_name":3302,"direction_id":1,"block_id":33,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":278,"trip_headsign":"Corlears Hook","trip_short_name":3109,"direction_id":1,"block_id":31,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":279,"trip_headsign":"Corlears Hook","trip_short_name":3205,"direction_id":1,"block_id":32,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":280,"trip_headsign":"Corlears Hook","trip_short_name":3304,"direction_id":1,"block_id":33,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":281,"trip_headsign":"Corlears Hook","trip_short_name":3111,"direction_id":1,"block_id":31,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":282,"trip_headsign":"Corlears Hook","trip_short_name":3207,"direction_id":1,"block_id":32,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":283,"trip_headsign":"Corlears Hook","trip_short_name":3306,"direction_id":1,"block_id":33,"shape_id":45}
+{"route_id":"SB","service_id":2,"trip_id":294,"trip_headsign":"Corlears Hook","trip_short_name":3113,"direction_id":1,"block_id":31,"shape_id":105}
+{"route_id":"SB","service_id":2,"trip_id":295,"trip_headsign":"Corlears Hook","trip_short_name":3209,"direction_id":1,"block_id":32,"shape_id":105}
+{"route_id":"SB","service_id":2,"trip_id":296,"trip_headsign":"Corlears Hook","trip_short_name":3308,"direction_id":1,"block_id":33,"shape_id":105}
+{"route_id":"SB","service_id":2,"trip_id":297,"trip_headsign":"Corlears Hook","trip_short_name":3115,"direction_id":1,"block_id":31,"shape_id":105}
+{"route_id":"SB","service_id":2,"trip_id":298,"trip_headsign":"Corlears Hook","trip_short_name":3211,"direction_id":1,"block_id":32,"shape_id":105}
+{"route_id":"AS","service_id":2,"trip_id":299,"trip_headsign":"East 90th St","trip_short_name":4201,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":300,"trip_headsign":"East 90th St","trip_short_name":4102,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":301,"trip_headsign":"East 90th St","trip_short_name":4203,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":302,"trip_headsign":"East 90th St","trip_short_name":4301,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":303,"trip_headsign":"East 90th St","trip_short_name":4104,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":304,"trip_headsign":"East 90th St","trip_short_name":4205,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":305,"trip_headsign":"East 90th St","trip_short_name":4303,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":306,"trip_headsign":"East 90th St","trip_short_name":4106,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":307,"trip_headsign":"East 90th St","trip_short_name":4207,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":308,"trip_headsign":"East 90th St","trip_short_name":4305,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":309,"trip_headsign":"East 90th St","trip_short_name":4108,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":310,"trip_headsign":"East 90th St","trip_short_name":4209,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":311,"trip_headsign":"East 90th St","trip_short_name":4307,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":312,"trip_headsign":"East 90th St","trip_short_name":4110,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":313,"trip_headsign":"East 90th St","trip_short_name":4211,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":314,"trip_headsign":"East 90th St","trip_short_name":4309,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":315,"trip_headsign":"East 90th St","trip_short_name":4112,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":2,"trip_id":316,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4101,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":317,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4202,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":318,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4103,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":319,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4204,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":320,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4302,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":321,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4105,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":322,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4206,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":323,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4304,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":324,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4107,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":325,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4208,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":326,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4306,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":327,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4109,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":328,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4210,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":329,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4308,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":330,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4111,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":331,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4212,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":2,"trip_id":332,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4310,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"SV","service_id":2,"trip_id":333,"trip_headsign":"Ferry Point Park","trip_short_name":6201,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":334,"trip_headsign":"Ferry Point Park","trip_short_name":6102,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":335,"trip_headsign":"Ferry Point Park","trip_short_name":6301,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":336,"trip_headsign":"Ferry Point Park","trip_short_name":6203,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":337,"trip_headsign":"Ferry Point Park","trip_short_name":6104,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":338,"trip_headsign":"Ferry Point Park","trip_short_name":6303,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":339,"trip_headsign":"Ferry Point Park","trip_short_name":6205,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":340,"trip_headsign":"Ferry Point Park","trip_short_name":6106,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":341,"trip_headsign":"Ferry Point Park","trip_short_name":6305,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":342,"trip_headsign":"Ferry Point Park","trip_short_name":6207,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":343,"trip_headsign":"Ferry Point Park","trip_short_name":6108,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":344,"trip_headsign":"Ferry Point Park","trip_short_name":6307,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":345,"trip_headsign":"Ferry Point Park","trip_short_name":6209,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":346,"trip_headsign":"Ferry Point Park","trip_short_name":6110,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":347,"trip_headsign":"Ferry Point Park","trip_short_name":6309,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":348,"trip_headsign":"Ferry Point Park","trip_short_name":6211,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":2,"trip_id":349,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6101,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":350,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6202,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":351,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6103,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":352,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6302,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":353,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6204,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":354,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6105,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":355,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6304,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":356,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6206,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":357,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6107,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":358,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6306,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":359,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6208,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":360,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6109,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":361,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6308,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":362,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6210,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":363,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6111,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":2,"trip_id":364,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6310,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"RES","service_id":1,"trip_id":365,"trip_headsign":"Rockaway","trip_short_name":10103,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":366,"trip_headsign":"Rockaway","trip_short_name":10105,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":367,"trip_headsign":"Rockaway","trip_short_name":10107,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":368,"trip_headsign":"Rockaway","trip_short_name":10109,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":369,"trip_headsign":"Rockaway","trip_short_name":10111,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":370,"trip_headsign":"Rockaway","trip_short_name":10113,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":371,"trip_headsign":"Rockaway","trip_short_name":10115,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":372,"trip_headsign":"Rockaway","trip_short_name":10117,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":373,"trip_headsign":"Rockaway","trip_short_name":10119,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":374,"trip_headsign":"Rockaway","trip_short_name":10121,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":375,"trip_headsign":"Rockaway","trip_short_name":10123,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":376,"trip_headsign":"Rockaway","trip_short_name":10125,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":377,"trip_headsign":"Rockaway","trip_short_name":10127,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":378,"trip_headsign":"Rockaway","trip_short_name":10129,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":1,"trip_id":379,"trip_headsign":"Rockaway East","trip_short_name":10118,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":380,"trip_headsign":"Rockaway East","trip_short_name":10120,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":381,"trip_headsign":"Rockaway East","trip_short_name":10122,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":382,"trip_headsign":"Rockaway East","trip_short_name":10124,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":383,"trip_headsign":"Rockaway East","trip_short_name":10126,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":384,"trip_headsign":"Rockaway East","trip_short_name":10128,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":385,"trip_headsign":"Rockaway East","trip_short_name":10130,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":386,"trip_headsign":"Rockaway East","trip_short_name":10131,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":387,"trip_headsign":"Rockaway","trip_short_name":10101,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":388,"trip_headsign":"Rockaway","trip_short_name":10103,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":389,"trip_headsign":"Rockaway","trip_short_name":10105,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":390,"trip_headsign":"Rockaway","trip_short_name":10107,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":391,"trip_headsign":"Rockaway","trip_short_name":10109,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":392,"trip_headsign":"Rockaway","trip_short_name":10111,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":393,"trip_headsign":"Rockaway","trip_short_name":10113,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":394,"trip_headsign":"Rockaway","trip_short_name":10115,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":395,"trip_headsign":"Rockaway","trip_short_name":10117,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":396,"trip_headsign":"Rockaway","trip_short_name":10119,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":397,"trip_headsign":"Rockaway","trip_short_name":10121,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":398,"trip_headsign":"Rockaway","trip_short_name":10123,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RES","service_id":2,"trip_id":399,"trip_headsign":"Rockaway East","trip_short_name":10102,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":400,"trip_headsign":"Rockaway East","trip_short_name":10104,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":401,"trip_headsign":"Rockaway East","trip_short_name":10106,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":402,"trip_headsign":"Rockaway East","trip_short_name":10108,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":403,"trip_headsign":"Rockaway East","trip_short_name":10110,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":404,"trip_headsign":"Rockaway East","trip_short_name":10112,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":405,"trip_headsign":"Rockaway East","trip_short_name":10114,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":406,"trip_headsign":"Rockaway East","trip_short_name":10116,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":407,"trip_headsign":"Rockaway East","trip_short_name":10118,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":408,"trip_headsign":"Rockaway East","trip_short_name":10120,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":409,"trip_headsign":"Rockaway East","trip_short_name":10122,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":2,"trip_id":410,"trip_headsign":"Rockaway East","trip_short_name":10124,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RWS","service_id":1,"trip_id":411,"trip_headsign":"Rockaway","trip_short_name":20117,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":412,"trip_headsign":"Rockaway","trip_short_name":20119,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":413,"trip_headsign":"Rockaway","trip_short_name":20121,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":414,"trip_headsign":"Rockaway","trip_short_name":20123,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":415,"trip_headsign":"Rockaway","trip_short_name":20125,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":416,"trip_headsign":"Rockaway","trip_short_name":20127,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":417,"trip_headsign":"Rockaway","trip_short_name":20129,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":418,"trip_headsign":"Rockaway West","trip_short_name":20118,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":419,"trip_headsign":"Rockaway West","trip_short_name":20120,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":420,"trip_headsign":"Rockaway West","trip_short_name":20122,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":421,"trip_headsign":"Rockaway West","trip_short_name":20124,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":422,"trip_headsign":"Rockaway West","trip_short_name":20126,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":423,"trip_headsign":"Rockaway West","trip_short_name":20128,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":424,"trip_headsign":"Rockaway West","trip_short_name":20130,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":425,"trip_headsign":"Rockaway West","trip_short_name":20131,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":2,"trip_id":426,"trip_headsign":"Rockaway","trip_short_name":20101,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":427,"trip_headsign":"Rockaway","trip_short_name":20103,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":428,"trip_headsign":"Rockaway","trip_short_name":20105,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":429,"trip_headsign":"Rockaway","trip_short_name":20107,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":430,"trip_headsign":"Rockaway","trip_short_name":20109,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":431,"trip_headsign":"Rockaway","trip_short_name":20111,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":432,"trip_headsign":"Rockaway","trip_short_name":20113,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":433,"trip_headsign":"Rockaway","trip_short_name":20115,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":434,"trip_headsign":"Rockaway","trip_short_name":20117,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":435,"trip_headsign":"Rockaway","trip_short_name":20119,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":436,"trip_headsign":"Rockaway","trip_short_name":20121,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":437,"trip_headsign":"Rockaway","trip_short_name":20123,"direction_id":0,"block_id":201,"shape_id":4}
+{"route_id":"RWS","service_id":2,"trip_id":438,"trip_headsign":"Rockaway West","trip_short_name":20102,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":439,"trip_headsign":"Rockaway West","trip_short_name":20104,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":440,"trip_headsign":"Rockaway West","trip_short_name":20106,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":441,"trip_headsign":"Rockaway West","trip_short_name":20108,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":442,"trip_headsign":"Rockaway West","trip_short_name":20110,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":443,"trip_headsign":"Rockaway West","trip_short_name":20112,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":444,"trip_headsign":"Rockaway West","trip_short_name":20114,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":445,"trip_headsign":"Rockaway West","trip_short_name":20116,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":446,"trip_headsign":"Rockaway West","trip_short_name":20118,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":447,"trip_headsign":"Rockaway West","trip_short_name":20120,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":448,"trip_headsign":"Rockaway West","trip_short_name":20122,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"RWS","service_id":2,"trip_id":449,"trip_headsign":"Rockaway West","trip_short_name":20124,"direction_id":1,"block_id":201,"shape_id":2}
+{"route_id":"SG","service_id":2,"trip_id":450,"trip_headsign":"St. George","trip_short_name":8201,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":451,"trip_headsign":"St. George","trip_short_name":8102,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":452,"trip_headsign":"St. George","trip_short_name":8203,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":453,"trip_headsign":"St. George","trip_short_name":8301,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":454,"trip_headsign":"St. George","trip_short_name":8104,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":455,"trip_headsign":"St. George","trip_short_name":8205,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":456,"trip_headsign":"St. George","trip_short_name":8303,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":457,"trip_headsign":"St. George","trip_short_name":8106,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":458,"trip_headsign":"St. George","trip_short_name":8207,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":459,"trip_headsign":"St. George","trip_short_name":8305,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":460,"trip_headsign":"St. George","trip_short_name":8108,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":461,"trip_headsign":"St. George","trip_short_name":8209,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":462,"trip_headsign":"St. George","trip_short_name":8307,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":463,"trip_headsign":"St. George","trip_short_name":8110,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":464,"trip_headsign":"St. George","trip_short_name":8211,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":465,"trip_headsign":"St. George","trip_short_name":8309,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":466,"trip_headsign":"St. George","trip_short_name":8112,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":467,"trip_headsign":"St. George","trip_short_name":8213,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":468,"trip_headsign":"St. George","trip_short_name":8311,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":469,"trip_headsign":"St. George","trip_short_name":8114,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":470,"trip_headsign":"St. George","trip_short_name":8215,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":471,"trip_headsign":"St. George","trip_short_name":8116,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":472,"trip_headsign":"St. George","trip_short_name":8217,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":2,"trip_id":473,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8101,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":474,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8202,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":475,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8103,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":476,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8204,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":477,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8302,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":478,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8105,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":479,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8206,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":480,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8304,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":481,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8107,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":482,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8208,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":483,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8306,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":484,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8109,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":485,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8210,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":486,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8308,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":487,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8111,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":488,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8212,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":489,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8310,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":490,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8113,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":491,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8214,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":492,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8312,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":493,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8115,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":494,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8216,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":2,"trip_id":495,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8117,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"RW","service_id":1,"trip_id":721,"trip_headsign":"Rockaway","trip_short_name":2102,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":722,"trip_headsign":"Rockaway","trip_short_name":2202,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":723,"trip_headsign":"Rockaway","trip_short_name":2104,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":724,"trip_headsign":"Rockaway","trip_short_name":2204,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":725,"trip_headsign":"Rockaway","trip_short_name":2106,"direction_id":0,"block_id":21,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":726,"trip_headsign":"Rockaway","trip_short_name":2206,"direction_id":0,"block_id":22,"shape_id":8}
+{"route_id":"RW","service_id":1,"trip_id":735,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2101,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":736,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2201,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":737,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2103,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":738,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2203,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":739,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2105,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":740,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2205,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":741,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2107,"direction_id":1,"block_id":21,"shape_id":7}
+{"route_id":"RW","service_id":1,"trip_id":742,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":2207,"direction_id":1,"block_id":22,"shape_id":7}
+{"route_id":"SB","service_id":1,"trip_id":775,"trip_headsign":"Sunset Park\/BAT Limited","trip_short_name":3303,"direction_id":0,"block_id":33,"shape_id":115}
+{"route_id":"SB","service_id":1,"trip_id":792,"trip_headsign":"Corlears Hook Limited","trip_short_name":3101,"direction_id":1,"block_id":31,"shape_id":118}
+{"route_id":"SB","service_id":1,"trip_id":793,"trip_headsign":"Corlears Hook Limited","trip_short_name":3302,"direction_id":1,"block_id":33,"shape_id":116}
+{"route_id":"SB","service_id":1,"trip_id":794,"trip_headsign":"Corlears Hook Limited","trip_short_name":3103,"direction_id":1,"block_id":31,"shape_id":116}
+{"route_id":"SB","service_id":1,"trip_id":795,"trip_headsign":"Corlears Hook Limited","trip_short_name":3304,"direction_id":1,"block_id":33,"shape_id":116}
+{"route_id":"SB","service_id":1,"trip_id":796,"trip_headsign":"Corlears Hook Limited","trip_short_name":3105,"direction_id":1,"block_id":31,"shape_id":116}
+{"route_id":"AS","service_id":1,"trip_id":856,"trip_headsign":"East 90th St","trip_short_name":4313,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":857,"trip_headsign":"East 90th St","trip_short_name":4108,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":858,"trip_headsign":"East 90th St","trip_short_name":4214,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":859,"trip_headsign":"East 90th St","trip_short_name":4315,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":860,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4312,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":861,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4314,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":862,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4109,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":863,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4215,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"RES","service_id":1,"trip_id":944,"trip_headsign":"Rockaway East","trip_short_name":10106,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":945,"trip_headsign":"Rockaway East","trip_short_name":10108,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":946,"trip_headsign":"Rockaway East","trip_short_name":10110,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":947,"trip_headsign":"Rockaway East","trip_short_name":10112,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":948,"trip_headsign":"Rockaway East","trip_short_name":10114,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RES","service_id":1,"trip_id":949,"trip_headsign":"Rockaway East","trip_short_name":10116,"direction_id":1,"block_id":101,"shape_id":132}
+{"route_id":"RWS","service_id":1,"trip_id":1166,"trip_headsign":"Rockaway","trip_short_name":20109,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":1167,"trip_headsign":"Rockaway","trip_short_name":20111,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":1168,"trip_headsign":"Rockaway","trip_short_name":20113,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":1169,"trip_headsign":"Rockaway","trip_short_name":20115,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":1181,"trip_headsign":"Rockaway West","trip_short_name":20102,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":1182,"trip_headsign":"Rockaway West","trip_short_name":20104,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":1183,"trip_headsign":"Rockaway West","trip_short_name":20106,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":1184,"trip_headsign":"Rockaway West","trip_short_name":20108,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":1185,"trip_headsign":"Rockaway West","trip_short_name":20110,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":1186,"trip_headsign":"Rockaway West","trip_short_name":20112,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":1187,"trip_headsign":"Rockaway West","trip_short_name":20114,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"RWS","service_id":1,"trip_id":1188,"trip_headsign":"Rockaway West","trip_short_name":20116,"direction_id":1,"block_id":201,"shape_id":35}
+{"route_id":"SB","service_id":1,"trip_id":3374,"trip_headsign":"Bay Ridge Limited","trip_short_name":3202,"direction_id":0,"block_id":32,"shape_id":79}
+{"route_id":"SB","service_id":1,"trip_id":3376,"trip_headsign":"Bay Ridge Limited","trip_short_name":3204,"direction_id":0,"block_id":32,"shape_id":79}
+{"route_id":"SB","service_id":1,"trip_id":3378,"trip_headsign":"Bay Ridge Limited","trip_short_name":3206,"direction_id":0,"block_id":32,"shape_id":79}
+{"route_id":"SB","service_id":1,"trip_id":3380,"trip_headsign":"Bay Ridge Limited","trip_short_name":3208,"direction_id":0,"block_id":32,"shape_id":79}
+{"route_id":"AS","service_id":1,"trip_id":3444,"trip_headsign":"East 90th St","trip_short_name":4301,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3445,"trip_headsign":"East 90th St","trip_short_name":4102,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3446,"trip_headsign":"East 90th St","trip_short_name":4202,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3447,"trip_headsign":"East 90th St","trip_short_name":4303,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3448,"trip_headsign":"East 90th St","trip_short_name":4104,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3449,"trip_headsign":"East 90th St","trip_short_name":4204,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3450,"trip_headsign":"East 90th St","trip_short_name":4305,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3451,"trip_headsign":"East 90th St","trip_short_name":4206,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3452,"trip_headsign":"East 90th St","trip_short_name":4307,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3453,"trip_headsign":"East 90th St","trip_short_name":4208,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3454,"trip_headsign":"East 90th St","trip_short_name":4309,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3455,"trip_headsign":"East 90th St","trip_short_name":4210,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3456,"trip_headsign":"East 90th St","trip_short_name":4311,"direction_id":1,"block_id":43,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3457,"trip_headsign":"East 90th St","trip_short_name":4106,"direction_id":1,"block_id":41,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3458,"trip_headsign":"East 90th St","trip_short_name":4212,"direction_id":1,"block_id":42,"shape_id":107}
+{"route_id":"AS","service_id":1,"trip_id":3463,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4101,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3464,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4201,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3465,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4302,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3466,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4103,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3467,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4203,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3468,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4304,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3469,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4105,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3470,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4205,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3471,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4306,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3472,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4207,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3473,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4308,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3474,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4209,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3475,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4310,"direction_id":0,"block_id":43,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3476,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4211,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3478,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4107,"direction_id":0,"block_id":41,"shape_id":108}
+{"route_id":"AS","service_id":1,"trip_id":3479,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":4213,"direction_id":0,"block_id":42,"shape_id":108}
+{"route_id":"SV","service_id":1,"trip_id":3507,"trip_headsign":"Ferry Point Park","trip_short_name":6301,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3508,"trip_headsign":"Ferry Point Park","trip_short_name":6102,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3509,"trip_headsign":"Ferry Point Park","trip_short_name":6202,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3510,"trip_headsign":"Ferry Point Park","trip_short_name":6303,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3511,"trip_headsign":"Ferry Point Park","trip_short_name":6104,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3512,"trip_headsign":"Ferry Point Park","trip_short_name":6204,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3513,"trip_headsign":"Ferry Point Park","trip_short_name":6305,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3514,"trip_headsign":"Ferry Point Park","trip_short_name":6106,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3515,"trip_headsign":"Ferry Point Park","trip_short_name":6206,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3516,"trip_headsign":"Ferry Point Park","trip_short_name":6108,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3517,"trip_headsign":"Ferry Point Park","trip_short_name":6208,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3518,"trip_headsign":"Ferry Point Park","trip_short_name":6110,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3519,"trip_headsign":"Ferry Point Park","trip_short_name":6210,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3520,"trip_headsign":"Ferry Point Park","trip_short_name":6307,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3521,"trip_headsign":"Ferry Point Park","trip_short_name":6112,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3522,"trip_headsign":"Ferry Point Park","trip_short_name":6212,"direction_id":1,"block_id":62,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3523,"trip_headsign":"Ferry Point Park","trip_short_name":6309,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3524,"trip_headsign":"Ferry Point Park","trip_short_name":6114,"direction_id":1,"block_id":61,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3525,"trip_headsign":"Ferry Point Park","trip_short_name":6311,"direction_id":1,"block_id":63,"shape_id":15}
+{"route_id":"SV","service_id":1,"trip_id":3526,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6101,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3527,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6201,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3528,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6302,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3529,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6103,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3530,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6203,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3531,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6304,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3532,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6105,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3533,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6205,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3534,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6306,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3535,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6107,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3536,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6207,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3537,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6109,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3538,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6209,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3539,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6111,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3540,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6211,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3541,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6308,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3542,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6113,"direction_id":0,"block_id":61,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3543,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6213,"direction_id":0,"block_id":62,"shape_id":83}
+{"route_id":"SV","service_id":1,"trip_id":3544,"trip_headsign":"Wall St.\/Pier 11","trip_short_name":6310,"direction_id":0,"block_id":63,"shape_id":83}
+{"route_id":"RES","service_id":1,"trip_id":3569,"trip_headsign":"Rockaway","trip_short_name":10101,"direction_id":0,"block_id":101,"shape_id":44}
+{"route_id":"RWS","service_id":1,"trip_id":3623,"trip_headsign":"Rockaway","trip_short_name":20101,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":3624,"trip_headsign":"Rockaway","trip_short_name":20103,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":3625,"trip_headsign":"Rockaway","trip_short_name":20105,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"RWS","service_id":1,"trip_id":3626,"trip_headsign":"Rockaway","trip_short_name":20107,"direction_id":0,"block_id":201,"shape_id":27}
+{"route_id":"SG","service_id":1,"trip_id":3677,"trip_headsign":"St. George","trip_short_name":8102,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3678,"trip_headsign":"St. George","trip_short_name":8202,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3679,"trip_headsign":"St. George","trip_short_name":8302,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3680,"trip_headsign":"St. George","trip_short_name":8104,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3681,"trip_headsign":"St. George","trip_short_name":8204,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3682,"trip_headsign":"St. George","trip_short_name":8304,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3683,"trip_headsign":"St. George","trip_short_name":8106,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3684,"trip_headsign":"St. George","trip_short_name":8306,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3685,"trip_headsign":"St. George","trip_short_name":8108,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3686,"trip_headsign":"St. George","trip_short_name":8308,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3687,"trip_headsign":"St. George","trip_short_name":8110,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3688,"trip_headsign":"St. George","trip_short_name":8310,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3689,"trip_headsign":"St. George","trip_short_name":8112,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3690,"trip_headsign":"St. George","trip_short_name":8312,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3691,"trip_headsign":"St. George","trip_short_name":8114,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3692,"trip_headsign":"St. George","trip_short_name":8314,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3693,"trip_headsign":"St. George","trip_short_name":8206,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3694,"trip_headsign":"St. George","trip_short_name":8116,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3695,"trip_headsign":"St. George","trip_short_name":8316,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3696,"trip_headsign":"St. George","trip_short_name":8208,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3697,"trip_headsign":"St. George","trip_short_name":8118,"direction_id":0,"block_id":81,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3698,"trip_headsign":"St. George","trip_short_name":8318,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3699,"trip_headsign":"St. George","trip_short_name":8210,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3700,"trip_headsign":"St. George","trip_short_name":8320,"direction_id":0,"block_id":83,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3701,"trip_headsign":"St. George","trip_short_name":8212,"direction_id":0,"block_id":82,"shape_id":71}
+{"route_id":"SG","service_id":1,"trip_id":3702,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8101,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3703,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8201,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3704,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8301,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3705,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8103,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3706,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8203,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3707,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8303,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3708,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8105,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3709,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8205,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3710,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8305,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3711,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8107,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3712,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8307,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3713,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8109,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3714,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8309,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3715,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8111,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3716,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8311,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3717,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8113,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3718,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8313,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3719,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8115,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3720,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8315,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3721,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8207,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3722,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8117,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3723,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8317,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3724,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8209,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3725,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8119,"direction_id":1,"block_id":81,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3726,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8319,"direction_id":1,"block_id":83,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3727,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8211,"direction_id":1,"block_id":82,"shape_id":16}
+{"route_id":"SG","service_id":1,"trip_id":3728,"trip_headsign":"Midtown West\/W 39th St-Pier 79","trip_short_name":8321,"direction_id":1,"block_id":83,"shape_id":16}
