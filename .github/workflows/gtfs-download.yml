@@ -59,11 +59,11 @@ for file_name in os.listdir(extract_folder):
         json_file_name = f'{file_name.replace('.txt', '.json')}'
         with open(f'{extract_folder}/{json_file_name}', 'w') as json_file:
             json_file.write(json_data)
-        " > download_and_convert_gtfs.py
+        " > download_and_convert_gtfs.py  # Write the Python code to a script file
 
     - name: Run the Python script
       run: |
-        python download_and_convert_gtfs.py
+        python download_and_convert_gtfs.py  # Execute the Python script
 
     - name: Commit and push the GTFS JSON files
       uses: EndBug/add-and-commit@v7
