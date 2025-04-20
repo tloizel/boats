@@ -33,3 +33,5 @@ jobs:
         author_name: 'GitHub Actions'
         author_email: 'actions@github.com'
         message: 'Update GTFS data as JSON files'
+        # Uncomment the following line if using a Personal Access Token (PAT)
+        # token: ${{ secrets.GH_PAT }}
