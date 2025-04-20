@@ -1,6 +1,7 @@
 import requests
 import zipfile
 import os
+import shutil  # Import shutil to delete the folder
 import pandas as pd
 
 # URL for the GTFS zip file
@@ -15,11 +16,15 @@ with open(zip_file_path, 'wb') as f:
 
 # Extract the files from the zip archive
 extract_folder = 'gtfs_files'
-if not os.path.exists(extract_folder):
-    os.makedirs(extract_folder)
+
+# Delete the folder if it already exists (clean slate)
+if os.path.exists(extract_folder):
+    shutil.rmtree(extract_folder)  # Remove the folder and all its contents
+
+os.makedirs(extract_folder)  # Create a new, empty folder
 
 with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-    zip_ref.extractall(extract_folder)
+    zip_ref.extractall(extract_folder)  # Extract all files into the clean folder
 
 # Convert each GTFS file into JSON
 for file_name in os.listdir(extract_folder):
@@ -32,3 +37,5 @@ for file_name in os.listdir(extract_folder):
         json_file_name = f'{file_name.replace(".txt", ".json")}'
         with open(f'{extract_folder}/{json_file_name}', 'w') as json_file:
             json_file.write(json_data)
+
+print(f"GTFS files successfully downloaded, extracted, and converted to JSON in '{extract_folder}' folder.")
