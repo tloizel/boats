@@ -30,28 +30,26 @@ with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
 routes_df = pd.read_csv(os.path.join(extract_folder, 'routes.txt'))
 stops_df = pd.read_csv(os.path.join(extract_folder, 'stops.txt'))
 trips_df = pd.read_csv(os.path.join(extract_folder, 'trips.txt'))
+stop_times_df = pd.read_csv(os.path.join(extract_folder, 'stop_times.txt'))
 
-# Debugging: Print column names
-print("Columns in routes_df:", routes_df.columns)
-print("Columns in stops_df:", stops_df.columns)
-print("Columns in trips_df:", trips_df.columns)
+# Rename stop_code to stop_id if necessary
+if 'stop_code' in stops_df.columns:
+    stops_df.rename(columns={'stop_code': 'stop_id'}, inplace=True)
 
-# Merge trips with routes to get route_id and trip details
-trips_routes_df = pd.merge(trips_df, routes_df, on='route_id', how='inner')
+# Step 4: Merge DataFrames to build the final table
+# Merge stop_times with trips to associate stop_id with trip_id
+stop_times_trips_df = pd.merge(stop_times_df, trips_df, on='trip_id', how='inner')
 
-# Debugging: Print column names after first merge
-print("Columns in trips_routes_df:", trips_routes_df.columns)
+# Merge the result with routes to include route_id and route_long_name
+stop_times_trips_routes_df = pd.merge(stop_times_trips_df, routes_df, on='route_id', how='inner')
 
-# Merge trips with stops to get stop_id and stop_name
-trips_stops_routes_df = pd.merge(trips_routes_df, stops_df, on='stop_id', how='inner')
-
-# Debugging: Print column names after second merge
-print("Columns in trips_stops_routes_df:", trips_stops_routes_df.columns)
+# Merge the result with stops to include stop_name
+final_df = pd.merge(stop_times_trips_routes_df, stops_df, on='stop_id', how='inner')
 
 # Filter columns for metadata
-metadata_df = trips_stops_routes_df[['route_id', 'route_long_name', 'stop_id', 'stop_name', 'trip_headsign', 'direction_id']]
+metadata_df = final_df[['route_id', 'route_long_name', 'stop_id', 'stop_name', 'trip_headsign', 'direction_id']]
 
-# Step 4: Create hierarchical JSON structure
+# Step 5: Create hierarchical JSON structure
 hierarchical_data = {"routes": []}
 
 for route_id, route_group in metadata_df.groupby('route_id'):
@@ -73,7 +71,7 @@ for route_id, route_group in metadata_df.groupby('route_id'):
     
     hierarchical_data["routes"].append(route_data)
 
-# Step 5: Save hierarchical JSON to metadata folder
+# Step 6: Save hierarchical JSON to metadata folder
 if os.path.exists(metadata_folder):
     shutil.rmtree(metadata_folder)
 os.makedirs(metadata_folder)
