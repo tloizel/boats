@@ -31,11 +31,22 @@ routes_df = pd.read_csv(os.path.join(extract_folder, 'routes.txt'))
 stops_df = pd.read_csv(os.path.join(extract_folder, 'stops.txt'))
 trips_df = pd.read_csv(os.path.join(extract_folder, 'trips.txt'))
 
+# Debugging: Print column names
+print("Columns in routes_df:", routes_df.columns)
+print("Columns in stops_df:", stops_df.columns)
+print("Columns in trips_df:", trips_df.columns)
+
 # Merge trips with routes to get route_id and trip details
 trips_routes_df = pd.merge(trips_df, routes_df, on='route_id', how='inner')
 
+# Debugging: Print column names after first merge
+print("Columns in trips_routes_df:", trips_routes_df.columns)
+
 # Merge trips with stops to get stop_id and stop_name
 trips_stops_routes_df = pd.merge(trips_routes_df, stops_df, on='stop_id', how='inner')
+
+# Debugging: Print column names after second merge
+print("Columns in trips_stops_routes_df:", trips_stops_routes_df.columns)
 
 # Filter columns for metadata
 metadata_df = trips_stops_routes_df[['route_id', 'route_long_name', 'stop_id', 'stop_name', 'trip_headsign', 'direction_id']]
