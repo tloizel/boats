@@ -11,6 +11,7 @@ zip_file_path = 'gtfs_data.zip'
 # Folder paths
 extract_folder = 'gtfs_files'
 output_folder = 'gtfs_json_split'
+metadata_folder = 'gtfs_json_metadata'
 
 # Step 1: Download the GTFS zip file
 response = requests.get(url)
@@ -42,19 +43,19 @@ stop_times_trips_routes_df = pd.merge(stop_times_df, trips_routes_df, on='trip_i
 # Add service_id from calendar (optional: filter based on service_id if needed)
 final_df = stop_times_trips_routes_df.merge(calendar_df[['service_id']], on='service_id', how='inner')
 
-# Filter columns to keep only the required attributes
-final_df = final_df[['route_id', 'service_id', 'direction_id', 'stop_id', 'trip_id', 'arrival_time']]
+# Filter columns to keep only the required attributes for hierarchical JSON files
+hierarchical_df = final_df[['route_id', 'service_id', 'direction_id', 'stop_id', 'trip_id', 'arrival_time']]
 
 # Step 5: Create hierarchical folder structure and split JSONs
 if os.path.exists(output_folder):
     shutil.rmtree(output_folder)
 os.makedirs(output_folder)
 
-for route_id in final_df['route_id'].unique():
+for route_id in hierarchical_df['route_id'].unique():
     route_folder = os.path.join(output_folder, route_id)
     os.makedirs(route_folder, exist_ok=True)
     
-    route_df = final_df[final_df['route_id'] == route_id]
+    route_df = hierarchical_df[hierarchical_df['route_id'] == route_id]
     
     for service_id in route_df['service_id'].unique():
         service_folder = os.path.join(route_folder, str(service_id))
@@ -81,4 +82,19 @@ for route_id in final_df['route_id'].unique():
                 json_file_path = os.path.join(stop_folder, 'data.json')
                 final_json_df.to_json(json_file_path, orient='records', indent=4)
 
+# Step 6: Create metadata file
+# Merge stops and routes to include stop_name and route_long_name
+metadata_df = final_df.merge(stops_df[['stop_id', 'stop_name']], on='stop_id', how='inner')
+metadata_df = metadata_df[['route_id', 'route_long_name', 'stop_id', 'stop_name', 'trip_headsign', 'direction_id']].drop_duplicates()
+
+# Create metadata folder
+if os.path.exists(metadata_folder):
+    shutil.rmtree(metadata_folder)
+os.makedirs(metadata_folder)
+
+# Save the metadata file
+metadata_file_path = os.path.join(metadata_folder, 'metadata.json')
+metadata_df.to_json(metadata_file_path, orient='records', indent=4)
+
 print(f"Successfully created hierarchical JSON files in '{output_folder}' folder.")
+print(f"Successfully created metadata file in '{metadata_folder}' folder.")
