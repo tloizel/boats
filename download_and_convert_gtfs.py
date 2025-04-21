@@ -43,7 +43,7 @@ stop_times_trips_routes_df = pd.merge(stop_times_df, trips_routes_df, on='trip_i
 final_df = stop_times_trips_routes_df.merge(calendar_df[['service_id']], on='service_id', how='inner')
 
 # Filter columns to keep only the required attributes
-final_df = final_df[['route_id', 'service_id', 'stop_id', 'direction_id', 'trip_id', 'arrival_time']]
+final_df = final_df[['route_id', 'service_id', 'direction_id', 'stop_id', 'trip_id', 'arrival_time']]
 
 # Step 5: Create hierarchical folder structure and split JSONs
 if os.path.exists(output_folder):
@@ -62,23 +62,23 @@ for route_id in final_df['route_id'].unique():
         
         service_df = route_df[route_df['service_id'] == service_id]
         
-        for stop_id in service_df['stop_id'].unique():
-            stop_folder = os.path.join(service_folder, str(stop_id))
-            os.makedirs(stop_folder, exist_ok=True)
+        for direction_id in service_df['direction_id'].unique():
+            direction_folder = os.path.join(service_folder, str(direction_id))
+            os.makedirs(direction_folder, exist_ok=True)
             
-            stop_df = service_df[service_df['stop_id'] == stop_id]
+            direction_df = service_df[service_df['direction_id'] == direction_id]
             
-            for direction_id in stop_df['direction_id'].unique():
-                direction_folder = os.path.join(stop_folder, str(direction_id))
-                os.makedirs(direction_folder, exist_ok=True)
+            for stop_id in direction_df['stop_id'].unique():
+                stop_folder = os.path.join(direction_folder, str(stop_id))
+                os.makedirs(stop_folder, exist_ok=True)
                 
-                direction_df = stop_df[stop_df['direction_id'] == direction_id]
+                stop_df = direction_df[direction_df['stop_id'] == stop_id]
                 
                 # Keep only trip_id and arrival_time for the final JSON
-                final_json_df = direction_df[['trip_id', 'arrival_time']]
+                final_json_df = stop_df[['trip_id', 'arrival_time']]
                 
                 # Save the JSON file in the lowest-level folder
-                json_file_path = os.path.join(direction_folder, 'data.json')
+                json_file_path = os.path.join(stop_folder, 'data.json')
                 final_json_df.to_json(json_file_path, orient='records', indent=4)
 
 print(f"Successfully created hierarchical JSON files in '{output_folder}' folder.")
