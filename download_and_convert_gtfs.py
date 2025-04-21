@@ -3,6 +3,7 @@ import os
 import requests
 import zipfile
 import shutil
+import json
 
 # Constants for paths and URLs
 GTFS_URL = 'http://nycferry.connexionz.net/rtt/public/utility/gtfs.aspx'
