@@ -42,7 +42,7 @@ for file_name in files_to_convert:
     file_path = os.path.join(extract_folder, file_name)
     if os.path.exists(file_path):  # Check if the file exists
         df = pd.read_csv(file_path)
-        json_data = df.to_json(orient='records', lines=True)  # Convert to JSON
+        json_data = df.to_json(orient='records')  # Convert to JSON array format
 
         # Write to a JSON file in the gtfs_json folder
         json_file_name = file_name.replace('.txt', '.json')
