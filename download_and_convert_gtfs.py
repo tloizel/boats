@@ -87,17 +87,45 @@ def create_hierarchical_json(final_df, output_folder):
 
 
 def create_metadata_file(final_df, stops_df, metadata_folder):
-    """Create metadata file."""
-    print("Creating metadata file...")
+    """Create hierarchical metadata file."""
+    print("Creating hierarchical metadata file...")
+    
+    # Merge stops with the final DataFrame to include stop_name
     metadata_df = final_df.merge(stops_df[['stop_id', 'stop_name']], on='stop_id', how='inner')
     metadata_df = metadata_df[['route_id', 'route_long_name', 'stop_id', 'stop_name', 'trip_headsign', 'direction_id']].drop_duplicates()
 
+    # Create hierarchical structure
+    hierarchical_data = {"routes": []}
+
+    for route_id, route_group in metadata_df.groupby('route_id'):
+        route_long_name = route_group['route_long_name'].iloc[0]
+        route_data = {"route_id": route_id, "route_long_name": route_long_name, "stops": []}
+
+        for stop_id, stop_group in route_group.groupby('stop_id'):
+            stop_name = stop_group['stop_name'].iloc[0]
+            stop_data = {"stop_id": stop_id, "stop_name": stop_name, "headsigns": []}
+
+            for _, headsign_row in stop_group.iterrows():
+                headsign_data = {
+                    "trip_headsign": headsign_row['trip_headsign'],
+                    "direction_id": headsign_row['direction_id']
+                }
+                stop_data["headsigns"].append(headsign_data)
+
+            route_data["stops"].append(stop_data)
+
+        hierarchical_data["routes"].append(route_data)
+
+    # Create metadata folder
     if os.path.exists(metadata_folder):
         shutil.rmtree(metadata_folder)
     os.makedirs(metadata_folder)
 
+    # Save the hierarchical metadata file
     metadata_file_path = os.path.join(metadata_folder, 'metadata.json')
-    metadata_df.to_json(metadata_file_path, orient='records', indent=4)
+    with open(metadata_file_path, 'w') as f:
+        json.dump(hierarchical_data, f, indent=4)
+
     print(f"Metadata file created in '{metadata_folder}' folder.")
 
 
