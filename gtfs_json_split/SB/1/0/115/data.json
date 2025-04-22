@@ -8,6 +8,10 @@
         "arrival_time":"07:07:00"
     },
     {
+        "trip_id":775,
+        "arrival_time":"07:57:00"
+    },
+    {
         "trip_id":217,
         "arrival_time":"08:47:00"
     },
@@ -58,9 +62,5 @@
     {
         "trip_id":233,
         "arrival_time":"20:11:00"
-    },
-    {
-        "trip_id":775,
-        "arrival_time":"07:57:00"
     }
 ]

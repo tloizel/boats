@@ -1,5 +1,9 @@
 [
     {
+        "trip_id":3569,
+        "arrival_time":"05:08:00"
+    },
+    {
         "trip_id":365,
         "arrival_time":"06:08:00"
     },
@@ -54,9 +58,5 @@
     {
         "trip_id":378,
         "arrival_time":"20:19:00"
-    },
-    {
-        "trip_id":3569,
-        "arrival_time":"05:08:00"
     }
 ]
