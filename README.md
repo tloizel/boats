@@ -1,4 +1,4 @@
-# **Boats JSON Project**
+# **Boats ⛵️**
 
 Welcome to the **Boats JSON Project**, a repository for processing, organizing, and retrieving GTFS (General Transit Feed Specification) data from NYC Ferry services. This project automates the downloading, parsing, and hierarchical organization of GTFS data into JSON files, making it easy to query and configure transit-related information.
 
