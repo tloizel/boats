@@ -4,11 +4,11 @@ Welcome to the **Boats JSON Project**, a repository for processing, organizing,
 
 ---
 
-### **.github/workflows/**
+### **`.github/workflows/`**
 
-- **gtfs-download.yml**:A GitHub Actions workflow that automates the downloading, parsing, and organizing of GTFS data into JSON files.
+- **`gtfs-download.yml`**:A GitHub Actions workflow that executes the **download_and_convert_gtfs.py** script to automate the downloading, parsing, and organizing of GTFS data into JSON files.
 
-### **gtfs_files/**
+### **`gtfs_files/`**
 
 - Contains the raw GTFS **.txt** files extracted from the downloaded GTFS zip file:
     - **agency.txt**: Transit agency details.
@@ -22,22 +22,22 @@ Welcome to the **Boats JSON Project**, a repository for processing, organizing,
     - **stops.txt**: Stop details (e.g., stop IDs and names).
     - **trips.txt**: Trip details (e.g., trip IDs and route associations).
 
-### **gtfs_json_metadata/**
+### **`gtfs_json_metadata/`**
 
-- **metadata.json**:A hierarchical JSON file containing information about routes, stops, trip headsigns, and direction IDs. This file is structured for easy querying.
+- **`metadata.json`**:A hierarchical JSON file containing information about routes, stops, trip headsigns, and direction IDs. This file is structured for easy querying.
 
-### **gtfs_json_split/**
+### **`gtfs_json_split/`**
 
 - Contains subfolders organized by route IDs. Each folder contains nested subfolders based on service IDs, direction IDs, and stop IDs. At the lowest level, each folder contains a **data.json** file with trip IDs and arrival times for the specific route, service, direction, and stop.
 
-### **local_scripts/**
+### **`Root Files`**
 
-- **retrieve_metadata.py**:A Python script for querying the **metadata.json** file. It allows you to:
+- **`download_and_convert_gtfs.py`**:The main Python script executed by the GitHub Actions workflow (**gtfs-download.yml**). It automates the downloading, parsing, and hierarchical organization of GTFS data into JSON files.
+- **gtfs_data.zip**:The raw GTFS zip file downloaded from NYC Ferry services.
+
+### **`local_scripts/`**
+
+- **`retrieve_metadata.py`**:A Python script for querying the **metadata.json** file. It allows you to:
     - Retrieve all route IDs and their long names.
     - Retrieve all stop IDs and stop names for a specific route ID.
     - Retrieve trip headsigns and direction IDs for a specific route ID and stop ID.
-- **download_and_convert_gtfs.py**:A Python script that automates the downloading, parsing, and hierarchical organization of GTFS data into JSON files.
-
-### **gtfs_data.zip**
-
-- The raw GTFS zip file downloaded from NYC Ferry services.
