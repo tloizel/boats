@@ -46,7 +46,7 @@ def load_dataframes(extract_folder):
 
 
 def create_hierarchical_json(final_df, output_folder):
-    """Create hierarchical folder structure and save JSON files."""
+    """Create hierarchical folder structure and save JSON files sorted by arrival time."""
     print("Creating hierarchical JSON files...")
     if os.path.exists(output_folder):
         shutil.rmtree(output_folder)
@@ -78,8 +78,11 @@ def create_hierarchical_json(final_df, output_folder):
 
                     stop_df = direction_df[direction_df['stop_id'] == stop_id]
 
+                    # Sort by arrival_time in ascending order
+                    sorted_stop_df = stop_df.sort_values(by='arrival_time', ascending=True)
+
                     # Keep only trip_id and arrival_time for the final JSON
-                    final_json_df = stop_df[['trip_id', 'arrival_time']]
+                    final_json_df = sorted_stop_df[['trip_id', 'arrival_time']]
 
                     # Save the JSON file in the lowest-level folder
                     json_file_path = os.path.join(stop_folder, 'data.json')
