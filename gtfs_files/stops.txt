@@ -19,7 +19,7 @@
 49,"2319830","Jacob Riis Park Road/Bath House",40.566157,-73.872477
 50,"2319831","Rockaway Beach Boulevard & Beach 149th St",40.569455,-73.863687
 51,"2319832","Rockaway Beach Boulevard & Beach 135th St",40.573903,-73.852874
-52,"2319833","Rockaway Beach Boulevard & Beach. 127th St",40.576762,-73.845900
+52,"2319833","Rockaway Beach Boulevard & Beach 127th St",40.576762,-73.845900
 53,"2319834","Rockaway Beach Boulevard & Beach 115th St",40.579980,-73.836574
 55,"2319835","Rockaway Beach Boulevard & Beach 118th Street",40.579197,-73.839208
 56,"2319836","Rockaway Beach Boulevard & Beach 126th Street",40.576892,-73.845939
