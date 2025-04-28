@@ -2,7 +2,7 @@ name: Download GTFS Files and Convert to JSON
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Runs daily at 8 AM UTC (3 AM New York time)
+    - cron: '0 8 * * 0'  # Run at 8:00 AM UTC every Sunday
   workflow_dispatch:  # Allow manual trigger from GitHub UI
 
 jobs:
