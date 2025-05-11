@@ -209,6 +209,40 @@
             ]
         },
         {
+            "route_id": "GI",
+            "route_long_name": "Governors Island Shuttle",
+            "stops": [
+                {
+                    "stop_id": 87,
+                    "stop_name": "Wall St/Pier 11",
+                    "headsigns": [
+                        {
+                            "trip_headsign": "Governors Island",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Wall St./Pier 11",
+                            "direction_id": 1
+                        }
+                    ]
+                },
+                {
+                    "stop_id": 111,
+                    "stop_name": "Gov. Island/Yankee Pier",
+                    "headsigns": [
+                        {
+                            "trip_headsign": "Governors Island",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Wall St./Pier 11",
+                            "direction_id": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "route_id": "RES",
             "route_long_name": "Rockaway East",
             "stops": [
@@ -381,12 +415,12 @@
                     "stop_name": "Wall St/Pier 11",
                     "headsigns": [
                         {
-                            "trip_headsign": "Rockaway",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Wall St./Pier 11",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Rockaway",
+                            "direction_id": 0
                         }
                     ]
                 },
@@ -395,12 +429,12 @@
                     "stop_name": "Rockaway",
                     "headsigns": [
                         {
-                            "trip_headsign": "Rockaway",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Wall St./Pier 11",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Rockaway",
+                            "direction_id": 0
                         }
                     ]
                 },
@@ -409,12 +443,12 @@
                     "stop_name": "Sunset Park/BAT",
                     "headsigns": [
                         {
-                            "trip_headsign": "Rockaway",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Wall St./Pier 11",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Rockaway",
+                            "direction_id": 0
                         }
                     ]
                 }
@@ -567,20 +601,20 @@
                     "stop_name": "Atlantic Ave/BBP Pier 6",
                     "headsigns": [
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
-                            "trip_headsign": "Bay Ridge Limited",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Wall St./Pier 11 Limited",
                             "direction_id": 1
                         },
                         {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge Limited",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
                         }
                     ]
                 },
@@ -593,16 +627,16 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
                         },
                         {
                             "trip_headsign": "Corlears Hook Limited",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
                         }
                     ]
                 },
@@ -611,20 +645,20 @@
                     "stop_name": "Bay Ridge",
                     "headsigns": [
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
-                            "trip_headsign": "Bay Ridge Limited",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Wall St./Pier 11 Limited",
                             "direction_id": 1
                         },
                         {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge Limited",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
                         }
                     ]
                 },
@@ -637,10 +671,6 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
                         },
@@ -650,6 +680,10 @@
                         },
                         {
                             "trip_headsign": "Red Hook/Atlantic Basin",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         },
                         {
@@ -667,14 +701,6 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
-                            "trip_headsign": "Bay Ridge Limited",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Wall St./Pier 11 Limited",
                             "direction_id": 1
                         },
@@ -687,7 +713,15 @@
                             "direction_id": 1
                         },
                         {
+                            "trip_headsign": "Bay Ridge Limited",
+                            "direction_id": 0
+                        },
+                        {
                             "trip_headsign": "Red Hook/Atlantic Basin",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         }
                     ]
@@ -701,20 +735,20 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
-                            "trip_headsign": "Bay Ridge Limited",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
                         },
                         {
                             "trip_headsign": "Corlears Hook Limited",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge Limited",
+                            "direction_id": 0
                         },
                         {
                             "trip_headsign": "Wall St./Pier 11 Limited",
@@ -731,16 +765,16 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
                         },
                         {
                             "trip_headsign": "Corlears Hook Limited",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
                         }
                     ]
                 },
@@ -753,16 +787,16 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
-                        },
-                        {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
                         },
                         {
                             "trip_headsign": "Corlears Hook Limited",
                             "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
                         }
                     ]
                 }

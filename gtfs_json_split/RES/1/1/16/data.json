@@ -1,25 +1,5 @@
 [
     {
-        "trip_id":43,
-        "arrival_time":"05:16:00"
-    },
-    {
-        "trip_id":44,
-        "arrival_time":"06:16:00"
-    },
-    {
-        "trip_id":944,
-        "arrival_time":"07:18:00"
-    },
-    {
-        "trip_id":945,
-        "arrival_time":"08:18:00"
-    },
-    {
-        "trip_id":946,
-        "arrival_time":"09:20:00"
-    },
-    {
         "trip_id":947,
         "arrival_time":"10:21:00"
     },
@@ -34,10 +14,6 @@
     {
         "trip_id":379,
         "arrival_time":"13:53:00"
-    },
-    {
-        "trip_id":380,
-        "arrival_time":"15:01:00"
     },
     {
         "trip_id":381,

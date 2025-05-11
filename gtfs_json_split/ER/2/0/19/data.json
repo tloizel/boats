@@ -1,110 +1,138 @@
 [
     {
-        "trip_id":125,
-        "arrival_time":"09:31:00"
+        "trip_id":33,
+        "arrival_time":"06:50:00"
     },
     {
-        "trip_id":126,
-        "arrival_time":"10:19:00"
+        "trip_id":34,
+        "arrival_time":"07:16:00"
     },
     {
-        "trip_id":127,
-        "arrival_time":"11:31:00"
+        "trip_id":35,
+        "arrival_time":"07:37:00"
     },
     {
-        "trip_id":128,
-        "arrival_time":"11:55:00"
+        "trip_id":36,
+        "arrival_time":"07:57:00"
     },
     {
-        "trip_id":129,
-        "arrival_time":"12:19:00"
+        "trip_id":37,
+        "arrival_time":"08:17:00"
     },
     {
-        "trip_id":132,
-        "arrival_time":"12:43:00"
+        "trip_id":38,
+        "arrival_time":"08:37:00"
     },
     {
-        "trip_id":133,
-        "arrival_time":"13:07:00"
+        "trip_id":39,
+        "arrival_time":"08:57:00"
     },
     {
-        "trip_id":134,
-        "arrival_time":"13:31:00"
+        "trip_id":40,
+        "arrival_time":"09:17:00"
     },
     {
-        "trip_id":135,
-        "arrival_time":"13:55:00"
+        "trip_id":41,
+        "arrival_time":"09:37:00"
     },
     {
-        "trip_id":136,
-        "arrival_time":"14:19:00"
+        "trip_id":42,
+        "arrival_time":"09:57:00"
     },
     {
-        "trip_id":137,
-        "arrival_time":"14:43:00"
+        "trip_id":47,
+        "arrival_time":"10:17:00"
     },
     {
-        "trip_id":139,
-        "arrival_time":"15:07:00"
+        "trip_id":48,
+        "arrival_time":"10:37:00"
     },
     {
-        "trip_id":140,
-        "arrival_time":"15:31:00"
+        "trip_id":49,
+        "arrival_time":"10:57:00"
     },
     {
-        "trip_id":141,
-        "arrival_time":"15:55:00"
+        "trip_id":51,
+        "arrival_time":"11:42:00"
     },
     {
-        "trip_id":142,
-        "arrival_time":"16:19:00"
+        "trip_id":53,
+        "arrival_time":"12:18:00"
     },
     {
-        "trip_id":165,
-        "arrival_time":"16:43:00"
+        "trip_id":54,
+        "arrival_time":"12:54:00"
     },
     {
-        "trip_id":166,
-        "arrival_time":"17:07:00"
+        "trip_id":56,
+        "arrival_time":"13:30:00"
     },
     {
-        "trip_id":167,
-        "arrival_time":"17:31:00"
+        "trip_id":57,
+        "arrival_time":"14:06:00"
     },
     {
-        "trip_id":168,
-        "arrival_time":"17:55:00"
+        "trip_id":58,
+        "arrival_time":"14:42:00"
     },
     {
-        "trip_id":169,
-        "arrival_time":"18:19:00"
+        "trip_id":59,
+        "arrival_time":"15:18:00"
     },
     {
-        "trip_id":170,
-        "arrival_time":"18:43:00"
+        "trip_id":60,
+        "arrival_time":"15:54:00"
     },
     {
-        "trip_id":171,
-        "arrival_time":"19:07:00"
+        "trip_id":61,
+        "arrival_time":"16:30:00"
     },
     {
-        "trip_id":172,
-        "arrival_time":"19:31:00"
+        "trip_id":62,
+        "arrival_time":"17:06:00"
     },
     {
-        "trip_id":173,
-        "arrival_time":"19:55:00"
+        "trip_id":63,
+        "arrival_time":"17:30:00"
     },
     {
-        "trip_id":174,
-        "arrival_time":"20:19:00"
+        "trip_id":64,
+        "arrival_time":"17:52:00"
     },
     {
-        "trip_id":175,
-        "arrival_time":"20:43:00"
+        "trip_id":65,
+        "arrival_time":"18:14:00"
     },
     {
-        "trip_id":176,
-        "arrival_time":"21:07:00"
+        "trip_id":66,
+        "arrival_time":"18:36:00"
+    },
+    {
+        "trip_id":67,
+        "arrival_time":"18:58:00"
+    },
+    {
+        "trip_id":68,
+        "arrival_time":"19:20:00"
+    },
+    {
+        "trip_id":69,
+        "arrival_time":"19:42:00"
+    },
+    {
+        "trip_id":70,
+        "arrival_time":"20:04:00"
+    },
+    {
+        "trip_id":71,
+        "arrival_time":"20:24:00"
+    },
+    {
+        "trip_id":72,
+        "arrival_time":"21:08:00"
+    },
+    {
+        "trip_id":73,
+        "arrival_time":"21:52:00"
     }
 ]
