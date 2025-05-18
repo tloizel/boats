@@ -1,62 +1,66 @@
 [
     {
-        "trip_id":256,
-        "arrival_time":"09:28:00"
+        "trip_id":2147,
+        "arrival_time":"06:54:00"
     },
     {
-        "trip_id":257,
-        "arrival_time":"10:41:00"
+        "trip_id":2149,
+        "arrival_time":"07:44:00"
     },
     {
-        "trip_id":258,
-        "arrival_time":"11:28:00"
+        "trip_id":2151,
+        "arrival_time":"08:44:00"
     },
     {
-        "trip_id":259,
+        "trip_id":2153,
+        "arrival_time":"09:34:00"
+    },
+    {
+        "trip_id":2154,
+        "arrival_time":"10:01:00"
+    },
+    {
+        "trip_id":2155,
+        "arrival_time":"11:08:00"
+    },
+    {
+        "trip_id":2156,
         "arrival_time":"12:15:00"
     },
     {
-        "trip_id":260,
-        "arrival_time":"13:02:00"
+        "trip_id":2157,
+        "arrival_time":"13:22:00"
     },
     {
-        "trip_id":261,
-        "arrival_time":"13:49:00"
+        "trip_id":2158,
+        "arrival_time":"14:07:00"
     },
     {
-        "trip_id":262,
-        "arrival_time":"14:36:00"
+        "trip_id":2159,
+        "arrival_time":"14:47:00"
     },
     {
-        "trip_id":263,
-        "arrival_time":"15:23:00"
+        "trip_id":2161,
+        "arrival_time":"16:23:00"
     },
     {
-        "trip_id":264,
-        "arrival_time":"16:10:00"
+        "trip_id":2163,
+        "arrival_time":"17:33:00"
     },
     {
-        "trip_id":265,
-        "arrival_time":"16:57:00"
+        "trip_id":2165,
+        "arrival_time":"18:36:00"
     },
     {
-        "trip_id":266,
-        "arrival_time":"17:44:00"
+        "trip_id":2167,
+        "arrival_time":"19:35:00"
     },
     {
-        "trip_id":267,
-        "arrival_time":"18:31:00"
+        "trip_id":2168,
+        "arrival_time":"19:35:00"
     },
     {
-        "trip_id":268,
-        "arrival_time":"19:18:00"
-    },
-    {
-        "trip_id":269,
-        "arrival_time":"20:05:00"
-    },
-    {
-        "trip_id":270,
-        "arrival_time":"20:52:00"
+        "trip_id":2169,
+        "arrival_time":"20:42:00"
     }
 ]
