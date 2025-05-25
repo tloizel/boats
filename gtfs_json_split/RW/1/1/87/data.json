@@ -1,38 +1,70 @@
 [
     {
-        "trip_id":740,
-        "arrival_time":"11:14:00"
+        "trip_id":1934,
+        "arrival_time":"06:09:00"
     },
     {
-        "trip_id":741,
-        "arrival_time":"12:15:00"
+        "trip_id":1935,
+        "arrival_time":"07:09:00"
     },
     {
-        "trip_id":742,
-        "arrival_time":"13:16:00"
+        "trip_id":1936,
+        "arrival_time":"08:11:00"
     },
     {
-        "trip_id":185,
-        "arrival_time":"14:46:00"
+        "trip_id":1937,
+        "arrival_time":"09:11:00"
     },
     {
-        "trip_id":187,
-        "arrival_time":"17:02:00"
+        "trip_id":1938,
+        "arrival_time":"10:13:00"
     },
     {
-        "trip_id":188,
-        "arrival_time":"18:07:00"
+        "trip_id":1939,
+        "arrival_time":"11:15:00"
     },
     {
-        "trip_id":189,
-        "arrival_time":"19:12:00"
+        "trip_id":1940,
+        "arrival_time":"12:21:00"
     },
     {
-        "trip_id":190,
-        "arrival_time":"20:16:00"
+        "trip_id":1941,
+        "arrival_time":"13:26:00"
     },
     {
-        "trip_id":191,
-        "arrival_time":"21:20:00"
+        "trip_id":1942,
+        "arrival_time":"14:49:00"
+    },
+    {
+        "trip_id":1943,
+        "arrival_time":"15:54:00"
+    },
+    {
+        "trip_id":1944,
+        "arrival_time":"16:59:00"
+    },
+    {
+        "trip_id":1945,
+        "arrival_time":"17:44:00"
+    },
+    {
+        "trip_id":1946,
+        "arrival_time":"18:34:00"
+    },
+    {
+        "trip_id":1947,
+        "arrival_time":"19:19:00"
+    },
+    {
+        "trip_id":1948,
+        "arrival_time":"20:04:00"
+    },
+    {
+        "trip_id":1949,
+        "arrival_time":"20:49:00"
+    },
+    {
+        "trip_id":1950,
+        "arrival_time":"21:50:00"
     }
 ]

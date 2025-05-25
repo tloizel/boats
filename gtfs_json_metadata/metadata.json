@@ -473,20 +473,6 @@
                     ]
                 },
                 {
-                    "stop_id": 48,
-                    "stop_name": "Rockaway Point Boulevard & Beach 169th Street",
-                    "headsigns": [
-                        {
-                            "trip_headsign": "Rockaway",
-                            "direction_id": 0
-                        },
-                        {
-                            "trip_headsign": "Rockaway West",
-                            "direction_id": 1
-                        }
-                    ]
-                },
-                {
                     "stop_id": 49,
                     "stop_name": "Jacob Riis Park Road/Bath House",
                     "headsigns": [
@@ -601,8 +587,8 @@
                     "stop_name": "Atlantic Ave/BBP Pier 6",
                     "headsigns": [
                         {
-                            "trip_headsign": "Wall St./Pier 11 Limited",
-                            "direction_id": 1
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
                         },
                         {
                             "trip_headsign": "Corlears Hook",
@@ -613,8 +599,8 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
+                            "trip_headsign": "Wall St./Pier 11 Limited",
+                            "direction_id": 1
                         }
                     ]
                 },
@@ -623,7 +609,7 @@
                     "stop_name": "Dumbo/Fulton Ferry",
                     "headsigns": [
                         {
-                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         },
                         {
@@ -631,12 +617,12 @@
                             "direction_id": 1
                         },
                         {
-                            "trip_headsign": "Corlears Hook Limited",
-                            "direction_id": 1
+                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
+                            "trip_headsign": "Corlears Hook Limited",
+                            "direction_id": 1
                         }
                     ]
                 },
@@ -645,8 +631,8 @@
                     "stop_name": "Bay Ridge",
                     "headsigns": [
                         {
-                            "trip_headsign": "Wall St./Pier 11 Limited",
-                            "direction_id": 1
+                            "trip_headsign": "Bay Ridge",
+                            "direction_id": 0
                         },
                         {
                             "trip_headsign": "Corlears Hook",
@@ -657,8 +643,8 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
+                            "trip_headsign": "Wall St./Pier 11 Limited",
+                            "direction_id": 1
                         }
                     ]
                 },
@@ -667,7 +653,7 @@
                     "stop_name": "Red Hook/Atlantic Basin",
                     "headsigns": [
                         {
-                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         },
                         {
@@ -675,15 +661,15 @@
                             "direction_id": 1
                         },
                         {
+                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "direction_id": 0
+                        },
+                        {
                             "trip_headsign": "Corlears Hook Limited",
                             "direction_id": 1
                         },
                         {
                             "trip_headsign": "Red Hook/Atlantic Basin",
-                            "direction_id": 0
-                        },
-                        {
-                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         },
                         {
@@ -697,31 +683,31 @@
                     "stop_name": "Wall St/Pier 11",
                     "headsigns": [
                         {
-                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
-                        },
-                        {
-                            "trip_headsign": "Wall St./Pier 11 Limited",
-                            "direction_id": 1
                         },
                         {
                             "trip_headsign": "Corlears Hook",
                             "direction_id": 1
                         },
                         {
-                            "trip_headsign": "Corlears Hook Limited",
-                            "direction_id": 1
+                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "direction_id": 0
                         },
                         {
                             "trip_headsign": "Bay Ridge Limited",
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Red Hook/Atlantic Basin",
-                            "direction_id": 0
+                            "trip_headsign": "Corlears Hook Limited",
+                            "direction_id": 1
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
+                            "trip_headsign": "Wall St./Pier 11 Limited",
+                            "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Red Hook/Atlantic Basin",
                             "direction_id": 0
                         }
                     ]
@@ -735,20 +721,20 @@
                             "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Corlears Hook",
-                            "direction_id": 1
-                        },
-                        {
-                            "trip_headsign": "Corlears Hook Limited",
-                            "direction_id": 1
-                        },
-                        {
                             "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         },
                         {
                             "trip_headsign": "Bay Ridge Limited",
                             "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Corlears Hook Limited",
+                            "direction_id": 1
+                        },
+                        {
+                            "trip_headsign": "Corlears Hook",
+                            "direction_id": 1
                         },
                         {
                             "trip_headsign": "Wall St./Pier 11 Limited",
@@ -761,7 +747,7 @@
                     "stop_name": "Corlears Hook",
                     "headsigns": [
                         {
-                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         },
                         {
@@ -769,12 +755,12 @@
                             "direction_id": 1
                         },
                         {
-                            "trip_headsign": "Corlears Hook Limited",
-                            "direction_id": 1
+                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
+                            "trip_headsign": "Corlears Hook Limited",
+                            "direction_id": 1
                         }
                     ]
                 },
@@ -783,7 +769,7 @@
                     "stop_name": "Sunset Park/BAT",
                     "headsigns": [
                         {
-                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "trip_headsign": "Bay Ridge",
                             "direction_id": 0
                         },
                         {
@@ -791,12 +777,12 @@
                             "direction_id": 1
                         },
                         {
-                            "trip_headsign": "Corlears Hook Limited",
-                            "direction_id": 1
+                            "trip_headsign": "Sunset Park/BAT Limited",
+                            "direction_id": 0
                         },
                         {
-                            "trip_headsign": "Bay Ridge",
-                            "direction_id": 0
+                            "trip_headsign": "Corlears Hook Limited",
+                            "direction_id": 1
                         }
                     ]
                 }

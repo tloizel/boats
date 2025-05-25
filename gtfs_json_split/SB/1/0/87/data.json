@@ -1,70 +1,98 @@
 [
     {
-        "trip_id":775,
+        "trip_id":1992,
+        "arrival_time":"06:33:00"
+    },
+    {
+        "trip_id":1993,
+        "arrival_time":"06:47:00"
+    },
+    {
+        "trip_id":1994,
+        "arrival_time":"07:23:00"
+    },
+    {
+        "trip_id":1995,
+        "arrival_time":"07:37:00"
+    },
+    {
+        "trip_id":1996,
         "arrival_time":"08:13:00"
     },
     {
-        "trip_id":218,
+        "trip_id":1997,
+        "arrival_time":"08:37:00"
+    },
+    {
+        "trip_id":1998,
+        "arrival_time":"09:03:00"
+    },
+    {
+        "trip_id":1999,
+        "arrival_time":"09:27:00"
+    },
+    {
+        "trip_id":2000,
         "arrival_time":"09:53:00"
     },
     {
-        "trip_id":219,
-        "arrival_time":"10:42:00"
+        "trip_id":2001,
+        "arrival_time":"11:00:00"
     },
     {
-        "trip_id":220,
+        "trip_id":2002,
         "arrival_time":"12:07:00"
     },
     {
-        "trip_id":221,
-        "arrival_time":"13:13:00"
+        "trip_id":2003,
+        "arrival_time":"13:14:00"
     },
     {
-        "trip_id":222,
-        "arrival_time":"13:51:00"
+        "trip_id":2004,
+        "arrival_time":"13:59:00"
     },
     {
-        "trip_id":223,
-        "arrival_time":"14:38:00"
+        "trip_id":2005,
+        "arrival_time":"14:39:00"
     },
     {
-        "trip_id":224,
+        "trip_id":2006,
         "arrival_time":"15:56:00"
     },
     {
-        "trip_id":225,
-        "arrival_time":"16:05:00"
+        "trip_id":2007,
+        "arrival_time":"16:13:00"
     },
     {
-        "trip_id":226,
-        "arrival_time":"16:53:00"
+        "trip_id":2008,
+        "arrival_time":"16:55:00"
     },
     {
-        "trip_id":227,
+        "trip_id":2009,
         "arrival_time":"17:23:00"
     },
     {
-        "trip_id":228,
-        "arrival_time":"17:35:00"
+        "trip_id":2010,
+        "arrival_time":"17:46:00"
     },
     {
-        "trip_id":229,
-        "arrival_time":"18:23:00"
+        "trip_id":2011,
+        "arrival_time":"18:26:00"
     },
     {
-        "trip_id":230,
-        "arrival_time":"18:32:00"
+        "trip_id":2012,
+        "arrival_time":"18:37:00"
     },
     {
-        "trip_id":232,
-        "arrival_time":"19:22:00"
+        "trip_id":2013,
+        "arrival_time":"19:25:00"
     },
     {
-        "trip_id":231,
-        "arrival_time":"19:29:00"
+        "trip_id":2014,
+        "arrival_time":"19:27:00"
     },
     {
-        "trip_id":233,
-        "arrival_time":"20:27:00"
+        "trip_id":2015,
+        "arrival_time":"20:34:00"
     }
 ]

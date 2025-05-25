@@ -15,7 +15,6 @@
 43,"2319824","Rockaway Beach Boulevard & Beach 86th Street",40.587523,-73.811179
 45,"2319826","Beach Channel Dr/Beach 54th Street",40.595027,-73.784696
 46,"2319827","Beach Channel Dr/Beach 41st Street",40.595763,-73.772531
-48,"2319829","Rockaway Point Boulevard & Beach 169th Street",40.567088,-73.882577
 49,"2319830","Jacob Riis Park Road/Bath House",40.566157,-73.872477
 50,"2319831","Rockaway Beach Boulevard & Beach 149th St",40.569455,-73.863687
 51,"2319832","Rockaway Beach Boulevard & Beach 135th St",40.573903,-73.852874
