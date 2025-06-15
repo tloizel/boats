@@ -262,7 +262,7 @@
                 },
                 {
                     "stop_id": 37,
-                    "stop_name": "Beach Channel Dr/Beach 54th St",
+                    "stop_name": "Beach Channel Dr/Beach 54th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -272,7 +272,7 @@
                 },
                 {
                     "stop_id": 39,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 86th St",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 86th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -312,7 +312,7 @@
                 },
                 {
                     "stop_id": 61,
-                    "stop_name": "Beach Channel Dr/Beach 41st St",
+                    "stop_name": "Beach Channel Dr/Beach 41st Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -336,7 +336,7 @@
                 },
                 {
                     "stop_id": 103,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 67th St",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 67th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -346,7 +346,7 @@
                 },
                 {
                     "stop_id": 104,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 96th St",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 96th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -356,7 +356,7 @@
                 },
                 {
                     "stop_id": 105,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 77th St",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 77th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -473,6 +473,20 @@
                     ]
                 },
                 {
+                    "stop_id": 48,
+                    "stop_name": "Rockaway Point Boulevard & Beach 169th Street",
+                    "headsigns": [
+                        {
+                            "trip_headsign": "Rockaway",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Rockaway West",
+                            "direction_id": 1
+                        }
+                    ]
+                },
+                {
                     "stop_id": 49,
                     "stop_name": "Jacob Riis Park Road/Bath House",
                     "headsigns": [
@@ -488,7 +502,7 @@
                 },
                 {
                     "stop_id": 50,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 149th St",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 149th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -498,7 +512,7 @@
                 },
                 {
                     "stop_id": 51,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 135th St",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 135th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -508,7 +522,7 @@
                 },
                 {
                     "stop_id": 52,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 127th St",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 127th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",
@@ -528,7 +542,7 @@
                 },
                 {
                     "stop_id": 56,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 126th Street",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 127th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway West",
@@ -558,7 +572,7 @@
                 },
                 {
                     "stop_id": 145,
-                    "stop_name": "Rockaway Beach Boulevard & Beach 118th Street Inbound",
+                    "stop_name": "Rockaway Beach Boulevard & Beach 118th Street",
                     "headsigns": [
                         {
                             "trip_headsign": "Rockaway",

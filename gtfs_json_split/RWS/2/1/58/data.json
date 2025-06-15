@@ -1,70 +1,70 @@
 [
     {
-        "trip_id":3145,
-        "arrival_time":"05:27:00"
+        "trip_id":4789,
+        "arrival_time":"05:28:00"
     },
     {
-        "trip_id":3146,
-        "arrival_time":"06:27:00"
+        "trip_id":4790,
+        "arrival_time":"06:28:00"
     },
     {
-        "trip_id":3147,
-        "arrival_time":"07:29:00"
+        "trip_id":4791,
+        "arrival_time":"07:30:00"
     },
     {
-        "trip_id":3148,
-        "arrival_time":"08:29:00"
+        "trip_id":4792,
+        "arrival_time":"08:30:00"
     },
     {
-        "trip_id":3149,
-        "arrival_time":"09:31:00"
+        "trip_id":4793,
+        "arrival_time":"09:32:00"
     },
     {
-        "trip_id":3150,
-        "arrival_time":"10:33:00"
+        "trip_id":4794,
+        "arrival_time":"10:34:00"
     },
     {
-        "trip_id":3151,
-        "arrival_time":"11:39:00"
+        "trip_id":4795,
+        "arrival_time":"11:40:00"
     },
     {
-        "trip_id":3152,
-        "arrival_time":"12:44:00"
+        "trip_id":4796,
+        "arrival_time":"12:45:00"
     },
     {
-        "trip_id":3153,
-        "arrival_time":"14:07:00"
+        "trip_id":4797,
+        "arrival_time":"14:08:00"
     },
     {
-        "trip_id":3154,
-        "arrival_time":"15:12:00"
+        "trip_id":4798,
+        "arrival_time":"15:13:00"
     },
     {
-        "trip_id":3155,
-        "arrival_time":"16:17:00"
+        "trip_id":4799,
+        "arrival_time":"16:18:00"
     },
     {
-        "trip_id":3156,
-        "arrival_time":"17:02:00"
+        "trip_id":4800,
+        "arrival_time":"17:03:00"
     },
     {
-        "trip_id":3157,
-        "arrival_time":"17:49:00"
+        "trip_id":4801,
+        "arrival_time":"17:50:00"
     },
     {
-        "trip_id":3158,
-        "arrival_time":"18:34:00"
+        "trip_id":4802,
+        "arrival_time":"18:35:00"
     },
     {
-        "trip_id":3159,
-        "arrival_time":"19:19:00"
+        "trip_id":4803,
+        "arrival_time":"19:20:00"
     },
     {
-        "trip_id":3160,
-        "arrival_time":"20:04:00"
+        "trip_id":4804,
+        "arrival_time":"20:05:00"
     },
     {
-        "trip_id":3161,
-        "arrival_time":"21:08:00"
+        "trip_id":4805,
+        "arrival_time":"21:09:00"
     }
 ]
