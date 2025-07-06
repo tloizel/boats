@@ -1,8 +1,9 @@
-﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
 "AS",1,"AS","Astoria",4,FF6B00,FFFFFF
 "ER",1,"ER","East River",4,00839C,FFFFFF
 "GI",1,"GI","Governors Island Shuttle",4,9795A0,FFFFFF
 "RES",1,"RES","Rockaway East",3,00A1E1,FFFFFF
+"RR",1,"RR","Rockaway Rocket",4,FF8672,FFFFFF
 "RW",1,"RW","Rockaway",4,B218AA,FFFFFF
 "RWS",1,"RWS","Rockaway West",3,00A1E1,FFFFFF
 "SB",1,"SB","South Brooklyn",4,FFD100,FFFFFF

@@ -1,4 +1,4 @@
-﻿stop_id,stop_code,stop_name,stop_lat,stop_lon
+stop_id,stop_code,stop_name,stop_lat,stop_lon
 4,"2319806","Hunters Point South",40.741838,-73.961322
 8,"2319809","South Williamsburg",40.708743,-73.970224
 11,"2319817","Atlantic Ave/BBP Pier 6",40.692315,-74.002073

@@ -1,138 +1,154 @@
 [
     {
-        "trip_id":6113,
-        "arrival_time":"06:50:00"
+        "trip_id":1225,
+        "arrival_time":"08:31:00"
     },
     {
-        "trip_id":6114,
-        "arrival_time":"07:16:00"
+        "trip_id":1226,
+        "arrival_time":"09:28:00"
     },
     {
-        "trip_id":6115,
-        "arrival_time":"07:37:00"
+        "trip_id":1227,
+        "arrival_time":"10:31:00"
     },
     {
-        "trip_id":6116,
-        "arrival_time":"07:57:00"
+        "trip_id":1228,
+        "arrival_time":"11:31:00"
     },
     {
-        "trip_id":6117,
-        "arrival_time":"08:17:00"
+        "trip_id":1229,
+        "arrival_time":"11:49:00"
     },
     {
-        "trip_id":6118,
-        "arrival_time":"08:37:00"
+        "trip_id":1230,
+        "arrival_time":"12:07:00"
     },
     {
-        "trip_id":6119,
-        "arrival_time":"08:57:00"
+        "trip_id":1231,
+        "arrival_time":"12:31:00"
     },
     {
-        "trip_id":6120,
-        "arrival_time":"09:17:00"
+        "trip_id":1232,
+        "arrival_time":"12:49:00"
     },
     {
-        "trip_id":6121,
-        "arrival_time":"09:37:00"
+        "trip_id":1233,
+        "arrival_time":"13:07:00"
     },
     {
-        "trip_id":6122,
-        "arrival_time":"09:57:00"
+        "trip_id":1234,
+        "arrival_time":"13:31:00"
     },
     {
-        "trip_id":6123,
-        "arrival_time":"10:17:00"
+        "trip_id":1235,
+        "arrival_time":"13:49:00"
     },
     {
-        "trip_id":6124,
-        "arrival_time":"10:37:00"
+        "trip_id":1236,
+        "arrival_time":"14:07:00"
     },
     {
-        "trip_id":6125,
-        "arrival_time":"10:57:00"
+        "trip_id":1237,
+        "arrival_time":"14:25:00"
     },
     {
-        "trip_id":6126,
-        "arrival_time":"11:42:00"
+        "trip_id":1238,
+        "arrival_time":"14:43:00"
     },
     {
-        "trip_id":6127,
-        "arrival_time":"12:18:00"
+        "trip_id":1239,
+        "arrival_time":"15:01:00"
     },
     {
-        "trip_id":6128,
-        "arrival_time":"12:54:00"
+        "trip_id":1240,
+        "arrival_time":"15:19:00"
     },
     {
-        "trip_id":6129,
-        "arrival_time":"13:30:00"
+        "trip_id":1241,
+        "arrival_time":"15:37:00"
     },
     {
-        "trip_id":6130,
-        "arrival_time":"14:06:00"
+        "trip_id":1242,
+        "arrival_time":"15:55:00"
     },
     {
-        "trip_id":6131,
-        "arrival_time":"14:42:00"
+        "trip_id":1243,
+        "arrival_time":"16:13:00"
     },
     {
-        "trip_id":6132,
-        "arrival_time":"15:18:00"
+        "trip_id":1244,
+        "arrival_time":"16:31:00"
     },
     {
-        "trip_id":6133,
-        "arrival_time":"15:54:00"
+        "trip_id":1245,
+        "arrival_time":"16:49:00"
     },
     {
-        "trip_id":6134,
-        "arrival_time":"16:30:00"
+        "trip_id":166,
+        "arrival_time":"17:07:00"
     },
     {
-        "trip_id":6135,
-        "arrival_time":"17:06:00"
+        "trip_id":1246,
+        "arrival_time":"17:25:00"
     },
     {
-        "trip_id":6136,
-        "arrival_time":"17:30:00"
+        "trip_id":1247,
+        "arrival_time":"17:47:00"
     },
     {
-        "trip_id":6137,
-        "arrival_time":"17:52:00"
+        "trip_id":1248,
+        "arrival_time":"18:01:00"
     },
     {
-        "trip_id":6138,
-        "arrival_time":"18:14:00"
+        "trip_id":1249,
+        "arrival_time":"18:19:00"
     },
     {
-        "trip_id":6139,
-        "arrival_time":"18:36:00"
+        "trip_id":1250,
+        "arrival_time":"18:37:00"
     },
     {
-        "trip_id":6140,
-        "arrival_time":"18:58:00"
+        "trip_id":1251,
+        "arrival_time":"18:55:00"
     },
     {
-        "trip_id":6141,
-        "arrival_time":"19:20:00"
+        "trip_id":1252,
+        "arrival_time":"19:13:00"
     },
     {
-        "trip_id":6142,
-        "arrival_time":"19:42:00"
+        "trip_id":1253,
+        "arrival_time":"19:31:00"
     },
     {
-        "trip_id":6143,
-        "arrival_time":"20:04:00"
+        "trip_id":1254,
+        "arrival_time":"19:49:00"
     },
     {
-        "trip_id":6144,
-        "arrival_time":"20:24:00"
+        "trip_id":1255,
+        "arrival_time":"20:07:00"
     },
     {
-        "trip_id":6145,
-        "arrival_time":"21:08:00"
+        "trip_id":1256,
+        "arrival_time":"20:25:00"
     },
     {
-        "trip_id":6146,
-        "arrival_time":"21:52:00"
+        "trip_id":175,
+        "arrival_time":"20:43:00"
+    },
+    {
+        "trip_id":1257,
+        "arrival_time":"21:01:00"
+    },
+    {
+        "trip_id":1258,
+        "arrival_time":"21:19:00"
+    },
+    {
+        "trip_id":1259,
+        "arrival_time":"21:37:00"
+    },
+    {
+        "trip_id":1260,
+        "arrival_time":"22:29:00"
     }
 ]

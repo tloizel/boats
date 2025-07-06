@@ -1,0 +1,14 @@
+[
+    {
+        "trip_id":6418,
+        "arrival_time":"09:30:00"
+    },
+    {
+        "trip_id":6419,
+        "arrival_time":"12:30:00"
+    },
+    {
+        "trip_id":6420,
+        "arrival_time":"16:00:00"
+    }
+]

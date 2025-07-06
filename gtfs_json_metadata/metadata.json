@@ -407,6 +407,54 @@
             ]
         },
         {
+            "route_id": "RR",
+            "route_long_name": "Rockaway Rocket",
+            "stops": [
+                {
+                    "stop_id": 18,
+                    "stop_name": "Greenpoint",
+                    "headsigns": [
+                        {
+                            "trip_headsign": "Rockaway",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Long Island City",
+                            "direction_id": 1
+                        }
+                    ]
+                },
+                {
+                    "stop_id": 88,
+                    "stop_name": "Rockaway",
+                    "headsigns": [
+                        {
+                            "trip_headsign": "Rockaway",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Long Island City",
+                            "direction_id": 1
+                        }
+                    ]
+                },
+                {
+                    "stop_id": 90,
+                    "stop_name": "Long Island City",
+                    "headsigns": [
+                        {
+                            "trip_headsign": "Rockaway",
+                            "direction_id": 0
+                        },
+                        {
+                            "trip_headsign": "Long Island City",
+                            "direction_id": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "route_id": "RW",
             "route_long_name": "Rockaway",
             "stops": [
