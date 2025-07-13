@@ -78,9 +78,5 @@
     {
         "trip_id":1376,
         "arrival_time":"19:58:00"
-    },
-    {
-        "trip_id":5432,
-        "arrival_time":"21:13:00"
     }
 ]
